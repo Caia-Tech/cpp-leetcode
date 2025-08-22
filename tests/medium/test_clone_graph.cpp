@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "../../src/medium/clone_graph.h"
+#include "medium/clone_graph.h"
 #include <vector>
 #include <unordered_set>
 #include <queue>

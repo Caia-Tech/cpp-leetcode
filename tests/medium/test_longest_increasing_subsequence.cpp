@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "../../src/medium/longest_increasing_subsequence.h"
+#include "medium/longest_increasing_subsequence.h"
 #include <vector>
 #include <algorithm>
 

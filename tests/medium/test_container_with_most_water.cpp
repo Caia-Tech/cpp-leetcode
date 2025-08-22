@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "../../src/medium/container_with_most_water.h"
+#include "medium/container_with_most_water.h"
 #include <vector>
 #include <algorithm>
 

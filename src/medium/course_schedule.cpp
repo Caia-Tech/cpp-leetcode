@@ -1,5 +1,6 @@
 #include "course_schedule.h"
 #include <algorithm>
+#include <string>
 
 namespace leetcode {
 namespace medium {

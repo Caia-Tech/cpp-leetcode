@@ -56,27 +56,89 @@ make -j$(nproc)
 
 ## Implemented Problems
 
-### Medium Problems (4 problems)
+### Easy Problems (36 problems)
+- 1. Two Sum
+- 7. Reverse Integer
+- 9. Palindrome Number
+- 13. Roman to Integer
+- 14. Longest Common Prefix
+- 20. Valid Parentheses
+- 21. Merge Two Sorted Lists
+- 26. Remove Duplicates from Sorted Array
+- 27. Remove Element
+- 28. Find the Index of the First Occurrence in a String
+- 35. Search Insert Position
+- 53. Maximum Subarray
+- 58. Length of Last Word
+- 66. Plus One
+- 67. Add Binary
+- 69. Sqrt(x)
+- 70. Climbing Stairs
+- 94. Binary Tree Inorder Traversal
+- 104. Maximum Depth of Binary Tree
+- 121. Best Time to Buy and Sell Stock
+- 125. Valid Palindrome
+- 136. Single Number
+- 169. Majority Element
+- 198. House Robber
+- 217. Contains Duplicate
+- 242. Valid Anagram
+- 268. Missing Number
+- 283. Move Zeroes
+- 326. Power of Three
+- 344. Reverse String
+- 350. Intersection of Two Arrays II
+- 367. Valid Perfect Square
+- 383. Ransom Note
+- 412. Fizz Buzz
+- 704. Binary Search
+- 977. Squares of a Sorted Array
 
-#### 11. Container With Most Water
-- **Approaches**: Two Pointers (Optimal), Brute Force, Divide and Conquer, Stack-Based, Optimized Brute Force, Binary Search on Height
-- **Time Complexities**: O(n) to O(n²)
-- **Space Complexities**: O(1) to O(n)
+### Medium Problems (33 problems)
+- 2. Add Two Numbers
+- 3. Longest Substring Without Repeating Characters
+- 5. Longest Palindromic Substring
+- 11. Container With Most Water
+- 12. Integer to Roman
+- 15. 3Sum
+- 17. Letter Combinations of a Phone Number
+- 18. 4Sum
+- 22. Generate Parentheses
+- 31. Next Permutation
+- 33. Search in Rotated Sorted Array
+- 36. Valid Sudoku
+- 39. Combination Sum
+- 46. Permutations
+- 49. Group Anagrams
+- 56. Merge Intervals
+- 62. Unique Paths
+- 79. Word Search
+- 98. Validate Binary Search Tree
+- 102. Binary Tree Level Order Traversal
+- 127. Word Ladder
+- 133. Clone Graph
+- 139. Word Break
+- 146. LRU Cache
+- 152. Maximum Product Subarray
+- 207. Course Schedule
+- 215. Kth Largest Element in an Array
+- 238. Product of Array Except Self
+- 300. Longest Increasing Subsequence
+- 322. Coin Change
+- 347. Top K Frequent Elements
+- 647. Palindromic Substrings
+- 994. Rotting Oranges
 
-#### 133. Clone Graph
-- **Approaches**: DFS Recursive, BFS Iterative, DFS Iterative, Union-Find, Adjacency Matrix, Parallel Processing
-- **Time Complexities**: O(V + E) for all approaches
-- **Space Complexities**: O(V) to O(V²)
-
-#### 238. Product of Array Except Self
-- **Approaches**: Optimal Two-Pass, Prefix-Suffix Arrays, Single Pass, Division-Based, Logarithmic Transform, Rolling Product
-- **Time Complexities**: O(n) for all approaches
-- **Space Complexities**: O(1) to O(n)
-
-#### 994. Rotting Oranges
-- **Approaches**: Multi-source BFS (Optimal), DFS Time Simulation, Iterative Simulation, Union-Find Time, Priority Queue, Bidirectional BFS
-- **Time Complexities**: O(m×n) for all approaches
-- **Space Complexities**: O(m×n) for all approaches
+### Hard Problems (9 problems)
+- 4. Median of Two Sorted Arrays
+- 23. Merge k Sorted Lists
+- 41. First Missing Positive
+- 42. Trapping Rain Water
+- 51. N-Queens
+- 72. Edit Distance
+- 76. Minimum Window Substring
+- 239. Sliding Window Maximum
+- 297. Serialize and Deserialize Binary Tree
 
 ## Solution Format
 

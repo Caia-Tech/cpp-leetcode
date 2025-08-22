@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "../../src/medium/palindromic_substrings.h"
+#include "medium/palindromic_substrings.h"
 #include <string>
 #include <algorithm>
 

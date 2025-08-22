@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "../../src/medium/product_except_self.h"
+#include "medium/product_except_self.h"
 #include <vector>
 #include <algorithm>
 

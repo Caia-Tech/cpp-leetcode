@@ -100,36 +100,28 @@ std::vector<int> ProductExceptSelfOptimal::productExceptSelf(std::vector<int>& n
 
 std::vector<int> ProductExceptSelfStack::productExceptSelf(std::vector<int>& nums) {
     int n = nums.size();
-    std::vector<int> result(n, 1);
-    std::stack<int> stack;
-    
-    // Initialize result with left products using stack
-    for (int i = 0; i < n; i++) {
-        // Calculate left product for current position
-        int leftProduct = 1;
-        std::stack<int> tempStack = stack;
-        while (!tempStack.empty()) {
-            leftProduct *= nums[tempStack.top()];
-            tempStack.pop();
-        }
-        result[i] = leftProduct;
-        stack.push(i);
+    std::vector<int> prefix(n, 1);
+    std::vector<int> result(n);
+
+    // Build prefix products and store them
+    for (int i = 1; i < n; i++) {
+        prefix[i] = prefix[i - 1] * nums[i - 1];
     }
-    
-    // Now multiply with right products
-    stack = std::stack<int>(); // Clear stack
+
+    // Use a stack to hold suffix products
+    std::stack<int> suffix;
+    int rightProduct = 1;
     for (int i = n - 1; i >= 0; i--) {
-        // Calculate right product for current position
-        int rightProduct = 1;
-        std::stack<int> tempStack = stack;
-        while (!tempStack.empty()) {
-            rightProduct *= nums[tempStack.top()];
-            tempStack.pop();
-        }
-        result[i] *= rightProduct;
-        stack.push(i);
+        suffix.push(rightProduct);
+        rightProduct *= nums[i];
     }
-    
+
+    // Combine prefix and suffix products
+    for (int i = 0; i < n; i++) {
+        result[i] = prefix[i] * suffix.top();
+        suffix.pop();
+    }
+
     return result;
 }
 

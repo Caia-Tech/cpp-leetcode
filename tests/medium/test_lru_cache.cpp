@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "../../src/medium/lru_cache.h"
+#include "medium/lru_cache.h"
 #include <vector>
 #include <unordered_set>
 

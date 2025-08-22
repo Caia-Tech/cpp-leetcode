@@ -2,6 +2,7 @@
 
 #include <vector>
 #include <unordered_map>
+#include <string>
 
 namespace leetcode {
 namespace medium {
@@ -97,22 +98,21 @@ public:
 };
 
 /**
- * Approach 4: Single Pass with Stack (Stack-based)
- * 
- * Use stack to maintain products and compute results in one traversal.
- * 
- * Reasoning: This approach uses a stack-based method to compute the product
- * array in a single pass. We push indices onto a stack and maintain running
- * products. When we process each element, we update the products for previous
- * elements using the stack. While this demonstrates an alternative approach
- * using data structures, it's more complex than necessary for this problem
- * and doesn't improve the time or space complexity.
- * 
- * Time Complexity: O(n) - single pass with stack operations
- * Space Complexity: O(n) - stack storage in worst case
- * 
- * Best when: Learning stack applications, single-pass preference
- * Worst when: Simplicity or space optimization needed
+ * Approach 4: Prefix Array with Suffix Stack (Stack-based)
+ *
+ * Use a prefix product array and a stack of suffix products to compute the
+ * result without division.
+ *
+ * Reasoning: By precomputing left products and storing right products in a
+ * stack, we can compute each position's product in linear time without copying
+ * stack contents, demonstrating an alternative data-structure usage while
+ * maintaining optimal complexity.
+ *
+ * Time Complexity: O(n) - two linear passes
+ * Space Complexity: O(n) - stack to store suffix products
+ *
+ * Best when: Demonstrating stack usage with linear complexity
+ * Worst when: Constant space is required
  */
 class ProductExceptSelfStack {
 public:

@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "../../src/medium/top_k_frequent_elements.h"
+#include "medium/top_k_frequent_elements.h"
 #include <vector>
 #include <algorithm>
 #include <set>

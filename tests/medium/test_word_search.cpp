@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "../../src/medium/word_search.h"
+#include "medium/word_search.h"
 #include <vector>
 #include <string>
 

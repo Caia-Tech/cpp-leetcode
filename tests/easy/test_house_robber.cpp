@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "../../src/easy/house_robber.h"
+#include "easy/house_robber.h"
 #include <vector>
 #include <algorithm>
 #include <numeric>

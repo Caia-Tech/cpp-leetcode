@@ -1,6 +1,7 @@
 #include "combination_sum.h"
 #include <queue>
 #include <stack>
+#include <functional>
 
 namespace leetcode {
 namespace medium {

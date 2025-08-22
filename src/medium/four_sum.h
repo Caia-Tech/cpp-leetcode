@@ -4,6 +4,7 @@
 #include <unordered_map>
 #include <unordered_set>
 #include <algorithm>
+#include <string>
 
 namespace leetcode {
 namespace medium {
