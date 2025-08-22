@@ -1,0 +1,5 @@
+/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles/leetcode_lib.dir
+/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles/leetcode_tests.dir
+/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles/test.dir
+/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles/edit_cache.dir
+/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles/rebuild_cache.dir
