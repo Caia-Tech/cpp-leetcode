@@ -1,6 +1,6 @@
 #include <gtest/gtest.h>
-#include "../../src/medium/validate_binary_search_tree.h"
-#include "../../src/utils/data_structures.h"
+#include "medium/validate_binary_search_tree.h"
+#include "utils/data_structures.h"
 #include <vector>
 #include <algorithm>
 #include <climits>

@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "../../src/medium/kth_largest_element.h"
+#include "medium/kth_largest_element.h"
 #include <vector>
 #include <algorithm>
 #include <random>

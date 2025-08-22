@@ -1,4 +1,5 @@
 #include "next_permutation.h"
+#include <climits>
 
 namespace leetcode {
 namespace medium {

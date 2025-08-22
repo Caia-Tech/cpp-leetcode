@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "../../src/medium/course_schedule.h"
+#include "medium/course_schedule.h"
 #include <vector>
 #include <algorithm>
 

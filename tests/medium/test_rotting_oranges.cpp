@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "../../src/medium/rotting_oranges.h"
+#include "medium/rotting_oranges.h"
 #include <vector>
 
 namespace leetcode {

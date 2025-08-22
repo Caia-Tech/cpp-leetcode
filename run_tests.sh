@@ -66,7 +66,7 @@ echo "======================================"
 
 if [ $TEST_RESULT -eq 0 ]; then
     echo -e "${GREEN}✓ All tests passed!${NC}"
-    
+
     # Count total tests
     TOTAL_TESTS=$(./leetcode_tests --gtest_list_tests | grep -c "  ")
     echo "Total test cases executed: $TOTAL_TESTS"

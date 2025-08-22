@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "../../src/hard/minimum_window_substring.h"
+#include "hard/minimum_window_substring.h"
 #include <string>
 #include <algorithm>
 

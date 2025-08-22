@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "../../src/medium/coin_change.h"
+#include "medium/coin_change.h"
 #include <vector>
 #include <algorithm>
 

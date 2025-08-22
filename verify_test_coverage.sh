@@ -30,12 +30,17 @@ for header in src/easy/*.h; do
     fi
     
     problem_name=$(basename "$header" .h)
-    test_file="tests/easy/${problem_name}_test.cpp"
-    
+    test_file1="tests/easy/${problem_name}_test.cpp"
+    test_file2="tests/easy/test_${problem_name}.cpp"
+
     ((total_problems++))
-    
-    if [ -f "$test_file" ]; then
-        test_count=$(grep -c "TEST_F\|TEST" "$test_file" 2>/dev/null || echo 0)
+
+    if [ -f "$test_file1" ]; then
+        test_count=$(grep -c "TEST_F\|TEST" "$test_file1" 2>/dev/null || echo 0)
+        echo -e "${GREEN}✓${NC} $problem_name: $test_count test cases"
+        ((total_tests+=test_count))
+    elif [ -f "$test_file2" ]; then
+        test_count=$(grep -c "TEST_F\|TEST" "$test_file2" 2>/dev/null || echo 0)
         echo -e "${GREEN}✓${NC} $problem_name: $test_count test cases"
         ((total_tests+=test_count))
     else
@@ -55,12 +60,17 @@ for header in src/medium/*.h; do
     fi
     
     problem_name=$(basename "$header" .h)
-    test_file="tests/medium/${problem_name}_test.cpp"
-    
+    test_file1="tests/medium/${problem_name}_test.cpp"
+    test_file2="tests/medium/test_${problem_name}.cpp"
+
     ((total_problems++))
-    
-    if [ -f "$test_file" ]; then
-        test_count=$(grep -c "TEST_F\|TEST" "$test_file" 2>/dev/null || echo 0)
+
+    if [ -f "$test_file1" ]; then
+        test_count=$(grep -c "TEST_F\|TEST" "$test_file1" 2>/dev/null || echo 0)
+        echo -e "${GREEN}✓${NC} $problem_name: $test_count test cases"
+        ((total_tests+=test_count))
+    elif [ -f "$test_file2" ]; then
+        test_count=$(grep -c "TEST_F\|TEST" "$test_file2" 2>/dev/null || echo 0)
         echo -e "${GREEN}✓${NC} $problem_name: $test_count test cases"
         ((total_tests+=test_count))
     else
@@ -80,12 +90,17 @@ for header in src/hard/*.h; do
     fi
     
     problem_name=$(basename "$header" .h)
-    test_file="tests/hard/${problem_name}_test.cpp"
-    
+    test_file1="tests/hard/${problem_name}_test.cpp"
+    test_file2="tests/hard/test_${problem_name}.cpp"
+
     ((total_problems++))
-    
-    if [ -f "$test_file" ]; then
-        test_count=$(grep -c "TEST_F\|TEST" "$test_file" 2>/dev/null || echo 0)
+
+    if [ -f "$test_file1" ]; then
+        test_count=$(grep -c "TEST_F\|TEST" "$test_file1" 2>/dev/null || echo 0)
+        echo -e "${GREEN}✓${NC} $problem_name: $test_count test cases"
+        ((total_tests+=test_count))
+    elif [ -f "$test_file2" ]; then
+        test_count=$(grep -c "TEST_F\|TEST" "$test_file2" 2>/dev/null || echo 0)
         echo -e "${GREEN}✓${NC} $problem_name: $test_count test cases"
         ((total_tests+=test_count))
     else
@@ -103,7 +118,7 @@ echo "Total Test Cases: $total_tests"
 echo "Average Tests per Problem: $((total_tests / total_problems))"
 echo "Missing Test Files: $missing_tests"
 
-if [ $missing_tests -eq 0 ]; then
+if [ "$missing_tests" -eq 0 ]; then
     echo -e "${GREEN}✓ 100% Test Coverage!${NC}"
 else
     echo -e "${RED}✗ Missing $missing_tests test files${NC}"
@@ -119,11 +134,11 @@ echo
 
 for test_file in tests/*/*.cpp; do
     problem_name=$(basename "$test_file" _test.cpp)
-    
+
     # Count verify calls (should test all 6 approaches)
-    verify_count=$(grep -c "verifyAllApproaches\|EXPECT_EQ.*solution\." "$test_file" 2>/dev/null || echo 0)
-    
-    if [ $verify_count -gt 0 ]; then
+    verify_count=$(grep -c "verifyAllApproaches\|EXPECT_EQ.*solution\." "$test_file" 2>/dev/null)
+
+    if [ "$verify_count" -gt 0 ]; then
         echo -e "${GREEN}✓${NC} $problem_name: Tests multiple approaches"
     else
         echo -e "${YELLOW}⚠${NC} $problem_name: May not test all approaches"

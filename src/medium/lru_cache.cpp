@@ -1,5 +1,6 @@
 #include "lru_cache.h"
 #include <algorithm>
+#include <climits>
 
 namespace leetcode {
 namespace medium {

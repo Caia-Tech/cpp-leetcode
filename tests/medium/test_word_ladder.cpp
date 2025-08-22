@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "../../src/medium/word_ladder.h"
+#include "medium/word_ladder.h"
 #include <vector>
 #include <string>
 #include <algorithm>

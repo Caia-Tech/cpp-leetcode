@@ -1,6 +1,6 @@
 #include <gtest/gtest.h>
-#include "../../src/hard/serialize_deserialize_binary_tree.h"
-#include "../../src/utils/data_structures.h"
+#include "hard/serialize_deserialize_binary_tree.h"
+#include "utils/data_structures.h"
 #include <vector>
 #include <algorithm>
 #include <queue>

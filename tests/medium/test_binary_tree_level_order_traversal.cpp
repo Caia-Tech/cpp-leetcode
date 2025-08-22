@@ -1,6 +1,6 @@
 #include <gtest/gtest.h>
-#include "../../src/medium/binary_tree_level_order_traversal.h"
-#include "../../src/utils/data_structures.h"
+#include "medium/binary_tree_level_order_traversal.h"
+#include "utils/data_structures.h"
 #include <vector>
 #include <queue>
 
