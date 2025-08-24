@@ -368,6 +368,30 @@ src/easy/delete_node_in_linked_list.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/delete_node_in_linked_list.cpp.s
 .PHONY : src/easy/delete_node_in_linked_list.cpp.s
 
+src/easy/excel_sheet_column_number.o: src/easy/excel_sheet_column_number.cpp.o
+.PHONY : src/easy/excel_sheet_column_number.o
+
+# target to build an object file
+src/easy/excel_sheet_column_number.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_number.cpp.o
+.PHONY : src/easy/excel_sheet_column_number.cpp.o
+
+src/easy/excel_sheet_column_number.i: src/easy/excel_sheet_column_number.cpp.i
+.PHONY : src/easy/excel_sheet_column_number.i
+
+# target to preprocess a source file
+src/easy/excel_sheet_column_number.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_number.cpp.i
+.PHONY : src/easy/excel_sheet_column_number.cpp.i
+
+src/easy/excel_sheet_column_number.s: src/easy/excel_sheet_column_number.cpp.s
+.PHONY : src/easy/excel_sheet_column_number.s
+
+# target to generate assembly for a file
+src/easy/excel_sheet_column_number.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_number.cpp.s
+.PHONY : src/easy/excel_sheet_column_number.cpp.s
+
 src/easy/find_index_of_first_occurrence.o: src/easy/find_index_of_first_occurrence.cpp.o
 .PHONY : src/easy/find_index_of_first_occurrence.o
 
@@ -2552,6 +2576,30 @@ tests/easy/test_delete_node_in_linked_list.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_delete_node_in_linked_list.cpp.s
 .PHONY : tests/easy/test_delete_node_in_linked_list.cpp.s
 
+tests/easy/test_excel_sheet_column_number.o: tests/easy/test_excel_sheet_column_number.cpp.o
+.PHONY : tests/easy/test_excel_sheet_column_number.o
+
+# target to build an object file
+tests/easy/test_excel_sheet_column_number.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_excel_sheet_column_number.cpp.o
+.PHONY : tests/easy/test_excel_sheet_column_number.cpp.o
+
+tests/easy/test_excel_sheet_column_number.i: tests/easy/test_excel_sheet_column_number.cpp.i
+.PHONY : tests/easy/test_excel_sheet_column_number.i
+
+# target to preprocess a source file
+tests/easy/test_excel_sheet_column_number.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_excel_sheet_column_number.cpp.i
+.PHONY : tests/easy/test_excel_sheet_column_number.cpp.i
+
+tests/easy/test_excel_sheet_column_number.s: tests/easy/test_excel_sheet_column_number.cpp.s
+.PHONY : tests/easy/test_excel_sheet_column_number.s
+
+# target to generate assembly for a file
+tests/easy/test_excel_sheet_column_number.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_excel_sheet_column_number.cpp.s
+.PHONY : tests/easy/test_excel_sheet_column_number.cpp.s
+
 tests/easy/test_house_robber.o: tests/easy/test_house_robber.cpp.o
 .PHONY : tests/easy/test_house_robber.o
 
@@ -3958,6 +4006,9 @@ help:
 	@echo "... src/easy/delete_node_in_linked_list.o"
 	@echo "... src/easy/delete_node_in_linked_list.i"
 	@echo "... src/easy/delete_node_in_linked_list.s"
+	@echo "... src/easy/excel_sheet_column_number.o"
+	@echo "... src/easy/excel_sheet_column_number.i"
+	@echo "... src/easy/excel_sheet_column_number.s"
 	@echo "... src/easy/find_index_of_first_occurrence.o"
 	@echo "... src/easy/find_index_of_first_occurrence.i"
 	@echo "... src/easy/find_index_of_first_occurrence.s"
@@ -4231,6 +4282,9 @@ help:
 	@echo "... tests/easy/test_delete_node_in_linked_list.o"
 	@echo "... tests/easy/test_delete_node_in_linked_list.i"
 	@echo "... tests/easy/test_delete_node_in_linked_list.s"
+	@echo "... tests/easy/test_excel_sheet_column_number.o"
+	@echo "... tests/easy/test_excel_sheet_column_number.i"
+	@echo "... tests/easy/test_excel_sheet_column_number.s"
 	@echo "... tests/easy/test_house_robber.o"
 	@echo "... tests/easy/test_house_robber.i"
 	@echo "... tests/easy/test_house_robber.s"

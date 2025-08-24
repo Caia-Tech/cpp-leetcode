@@ -17,6 +17,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/leetcode_lib.dir/src/easy/convert_sorted_array_to_bst.cpp.o.d"
   "CMakeFiles/leetcode_lib.dir/src/easy/delete_node_in_linked_list.cpp.o"
   "CMakeFiles/leetcode_lib.dir/src/easy/delete_node_in_linked_list.cpp.o.d"
+  "CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_number.cpp.o"
+  "CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_number.cpp.o.d"
   "CMakeFiles/leetcode_lib.dir/src/easy/find_index_of_first_occurrence.cpp.o"
   "CMakeFiles/leetcode_lib.dir/src/easy/find_index_of_first_occurrence.cpp.o.d"
   "CMakeFiles/leetcode_lib.dir/src/easy/first_bad_version.cpp.o"

@@ -23,6 +23,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_convert_sorted_array_to_bst.cpp.o.d"
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_delete_node_in_linked_list.cpp.o"
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_delete_node_in_linked_list.cpp.o.d"
+  "CMakeFiles/leetcode_tests.dir/tests/easy/test_excel_sheet_column_number.cpp.o"
+  "CMakeFiles/leetcode_tests.dir/tests/easy/test_excel_sheet_column_number.cpp.o.d"
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_house_robber.cpp.o"
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_house_robber.cpp.o.d"
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_intersection_of_two_linked_lists.cpp.o"
