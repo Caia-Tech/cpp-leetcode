@@ -47,6 +47,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_duplicates_from_sorted_list.cpp.o.d"
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_linked_list_elements.cpp.o"
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_linked_list_elements.cpp.o.d"
+  "CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_bits.cpp.o"
+  "CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_bits.cpp.o.d"
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_linked_list.cpp.o"
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_linked_list.cpp.o.d"
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_same_tree.cpp.o"

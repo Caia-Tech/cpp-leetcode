@@ -944,6 +944,30 @@ src/easy/remove_linked_list_elements.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/remove_linked_list_elements.cpp.s
 .PHONY : src/easy/remove_linked_list_elements.cpp.s
 
+src/easy/reverse_bits.o: src/easy/reverse_bits.cpp.o
+.PHONY : src/easy/reverse_bits.o
+
+# target to build an object file
+src/easy/reverse_bits.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/reverse_bits.cpp.o
+.PHONY : src/easy/reverse_bits.cpp.o
+
+src/easy/reverse_bits.i: src/easy/reverse_bits.cpp.i
+.PHONY : src/easy/reverse_bits.i
+
+# target to preprocess a source file
+src/easy/reverse_bits.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/reverse_bits.cpp.i
+.PHONY : src/easy/reverse_bits.cpp.i
+
+src/easy/reverse_bits.s: src/easy/reverse_bits.cpp.s
+.PHONY : src/easy/reverse_bits.s
+
+# target to generate assembly for a file
+src/easy/reverse_bits.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/reverse_bits.cpp.s
+.PHONY : src/easy/reverse_bits.cpp.s
+
 src/easy/reverse_integer.o: src/easy/reverse_integer.cpp.o
 .PHONY : src/easy/reverse_integer.o
 
@@ -2864,6 +2888,30 @@ tests/easy/test_remove_linked_list_elements.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_linked_list_elements.cpp.s
 .PHONY : tests/easy/test_remove_linked_list_elements.cpp.s
 
+tests/easy/test_reverse_bits.o: tests/easy/test_reverse_bits.cpp.o
+.PHONY : tests/easy/test_reverse_bits.o
+
+# target to build an object file
+tests/easy/test_reverse_bits.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_bits.cpp.o
+.PHONY : tests/easy/test_reverse_bits.cpp.o
+
+tests/easy/test_reverse_bits.i: tests/easy/test_reverse_bits.cpp.i
+.PHONY : tests/easy/test_reverse_bits.i
+
+# target to preprocess a source file
+tests/easy/test_reverse_bits.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_bits.cpp.i
+.PHONY : tests/easy/test_reverse_bits.cpp.i
+
+tests/easy/test_reverse_bits.s: tests/easy/test_reverse_bits.cpp.s
+.PHONY : tests/easy/test_reverse_bits.s
+
+# target to generate assembly for a file
+tests/easy/test_reverse_bits.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_bits.cpp.s
+.PHONY : tests/easy/test_reverse_bits.cpp.s
+
 tests/easy/test_reverse_linked_list.o: tests/easy/test_reverse_linked_list.cpp.o
 .PHONY : tests/easy/test_reverse_linked_list.o
 
@@ -4078,6 +4126,9 @@ help:
 	@echo "... src/easy/remove_linked_list_elements.o"
 	@echo "... src/easy/remove_linked_list_elements.i"
 	@echo "... src/easy/remove_linked_list_elements.s"
+	@echo "... src/easy/reverse_bits.o"
+	@echo "... src/easy/reverse_bits.i"
+	@echo "... src/easy/reverse_bits.s"
 	@echo "... src/easy/reverse_integer.o"
 	@echo "... src/easy/reverse_integer.i"
 	@echo "... src/easy/reverse_integer.s"
@@ -4318,6 +4369,9 @@ help:
 	@echo "... tests/easy/test_remove_linked_list_elements.o"
 	@echo "... tests/easy/test_remove_linked_list_elements.i"
 	@echo "... tests/easy/test_remove_linked_list_elements.s"
+	@echo "... tests/easy/test_reverse_bits.o"
+	@echo "... tests/easy/test_reverse_bits.i"
+	@echo "... tests/easy/test_reverse_bits.s"
 	@echo "... tests/easy/test_reverse_linked_list.o"
 	@echo "... tests/easy/test_reverse_linked_list.i"
 	@echo "... tests/easy/test_reverse_linked_list.s"

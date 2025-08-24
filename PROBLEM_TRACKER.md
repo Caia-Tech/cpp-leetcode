@@ -1,18 +1,18 @@
 # LeetCode Problem Tracker
 
 ## Implementation Status
-- ✅ Implemented (87 problems)
+- ✅ Implemented (88 problems)
 - 🚧 In Progress (0 problems)  
 - ⏳ Pending (~2800+ problems)
 
 ## Progress by Difficulty
-- **Easy**: 44/~800 completed
+- **Easy**: 45/~800 completed
 - **Medium**: 34/~1600 completed
 - **Hard**: 9/~650 completed
 
 ## Completed Problems
 
-### Easy (44)
+### Easy (45)
 - [x] 1. Two Sum
 - [x] 7. Reverse Integer
 - [x] 9. Palindrome Number
@@ -48,6 +48,8 @@
 - [x] 141. Linked List Cycle
 - [x] 160. Intersection of Two Linked Lists
 - [x] 169. Majority Element
+- [x] 171. Excel Sheet Column Number
+- [x] 190. Reverse Bits
 - [x] 198. House Robber
 - [x] 203. Remove Linked List Elements
 - [x] 206. Reverse Linked List
