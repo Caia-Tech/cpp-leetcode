@@ -560,6 +560,30 @@ src/easy/longest_common_prefix.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/longest_common_prefix.cpp.s
 .PHONY : src/easy/longest_common_prefix.cpp.s
 
+src/easy/majority_element.o: src/easy/majority_element.cpp.o
+.PHONY : src/easy/majority_element.o
+
+# target to build an object file
+src/easy/majority_element.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/majority_element.cpp.o
+.PHONY : src/easy/majority_element.cpp.o
+
+src/easy/majority_element.i: src/easy/majority_element.cpp.i
+.PHONY : src/easy/majority_element.i
+
+# target to preprocess a source file
+src/easy/majority_element.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/majority_element.cpp.i
+.PHONY : src/easy/majority_element.cpp.i
+
+src/easy/majority_element.s: src/easy/majority_element.cpp.s
+.PHONY : src/easy/majority_element.s
+
+# target to generate assembly for a file
+src/easy/majority_element.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/majority_element.cpp.s
+.PHONY : src/easy/majority_element.cpp.s
+
 src/easy/maximum_depth_binary_tree.o: src/easy/maximum_depth_binary_tree.cpp.o
 .PHONY : src/easy/maximum_depth_binary_tree.o
 
@@ -2600,6 +2624,30 @@ tests/easy/test_linked_list_cycle.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_linked_list_cycle.cpp.s
 .PHONY : tests/easy/test_linked_list_cycle.cpp.s
 
+tests/easy/test_majority_element.o: tests/easy/test_majority_element.cpp.o
+.PHONY : tests/easy/test_majority_element.o
+
+# target to build an object file
+tests/easy/test_majority_element.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_majority_element.cpp.o
+.PHONY : tests/easy/test_majority_element.cpp.o
+
+tests/easy/test_majority_element.i: tests/easy/test_majority_element.cpp.i
+.PHONY : tests/easy/test_majority_element.i
+
+# target to preprocess a source file
+tests/easy/test_majority_element.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_majority_element.cpp.i
+.PHONY : tests/easy/test_majority_element.cpp.i
+
+tests/easy/test_majority_element.s: tests/easy/test_majority_element.cpp.s
+.PHONY : tests/easy/test_majority_element.s
+
+# target to generate assembly for a file
+tests/easy/test_majority_element.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_majority_element.cpp.s
+.PHONY : tests/easy/test_majority_element.cpp.s
+
 tests/easy/test_maximum_depth_binary_tree.o: tests/easy/test_maximum_depth_binary_tree.cpp.o
 .PHONY : tests/easy/test_maximum_depth_binary_tree.o
 
@@ -3934,6 +3982,9 @@ help:
 	@echo "... src/easy/longest_common_prefix.o"
 	@echo "... src/easy/longest_common_prefix.i"
 	@echo "... src/easy/longest_common_prefix.s"
+	@echo "... src/easy/majority_element.o"
+	@echo "... src/easy/majority_element.i"
+	@echo "... src/easy/majority_element.s"
 	@echo "... src/easy/maximum_depth_binary_tree.o"
 	@echo "... src/easy/maximum_depth_binary_tree.i"
 	@echo "... src/easy/maximum_depth_binary_tree.s"
@@ -4189,6 +4240,9 @@ help:
 	@echo "... tests/easy/test_linked_list_cycle.o"
 	@echo "... tests/easy/test_linked_list_cycle.i"
 	@echo "... tests/easy/test_linked_list_cycle.s"
+	@echo "... tests/easy/test_majority_element.o"
+	@echo "... tests/easy/test_majority_element.i"
+	@echo "... tests/easy/test_majority_element.s"
 	@echo "... tests/easy/test_maximum_depth_binary_tree.o"
 	@echo "... tests/easy/test_maximum_depth_binary_tree.i"
 	@echo "... tests/easy/test_maximum_depth_binary_tree.s"

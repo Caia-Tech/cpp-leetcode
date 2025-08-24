@@ -33,6 +33,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/leetcode_lib.dir/src/easy/linked_list_cycle.cpp.o.d"
   "CMakeFiles/leetcode_lib.dir/src/easy/longest_common_prefix.cpp.o"
   "CMakeFiles/leetcode_lib.dir/src/easy/longest_common_prefix.cpp.o.d"
+  "CMakeFiles/leetcode_lib.dir/src/easy/majority_element.cpp.o"
+  "CMakeFiles/leetcode_lib.dir/src/easy/majority_element.cpp.o.d"
   "CMakeFiles/leetcode_lib.dir/src/easy/maximum_depth_binary_tree.cpp.o"
   "CMakeFiles/leetcode_lib.dir/src/easy/maximum_depth_binary_tree.cpp.o.d"
   "CMakeFiles/leetcode_lib.dir/src/easy/maximum_subarray.cpp.o"

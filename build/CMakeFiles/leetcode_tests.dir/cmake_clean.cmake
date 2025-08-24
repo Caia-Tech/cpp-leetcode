@@ -29,6 +29,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_intersection_of_two_linked_lists.cpp.o.d"
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_linked_list_cycle.cpp.o"
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_linked_list_cycle.cpp.o.d"
+  "CMakeFiles/leetcode_tests.dir/tests/easy/test_majority_element.cpp.o"
+  "CMakeFiles/leetcode_tests.dir/tests/easy/test_majority_element.cpp.o.d"
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_maximum_depth_binary_tree.cpp.o"
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_maximum_depth_binary_tree.cpp.o.d"
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_minimum_depth_binary_tree.cpp.o"
