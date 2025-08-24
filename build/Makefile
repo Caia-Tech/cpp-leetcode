@@ -176,6 +176,30 @@ src/easy/add_binary.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/add_binary.cpp.s
 .PHONY : src/easy/add_binary.cpp.s
 
+src/easy/balanced_binary_tree.o: src/easy/balanced_binary_tree.cpp.o
+.PHONY : src/easy/balanced_binary_tree.o
+
+# target to build an object file
+src/easy/balanced_binary_tree.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/balanced_binary_tree.cpp.o
+.PHONY : src/easy/balanced_binary_tree.cpp.o
+
+src/easy/balanced_binary_tree.i: src/easy/balanced_binary_tree.cpp.i
+.PHONY : src/easy/balanced_binary_tree.i
+
+# target to preprocess a source file
+src/easy/balanced_binary_tree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/balanced_binary_tree.cpp.i
+.PHONY : src/easy/balanced_binary_tree.cpp.i
+
+src/easy/balanced_binary_tree.s: src/easy/balanced_binary_tree.cpp.s
+.PHONY : src/easy/balanced_binary_tree.s
+
+# target to generate assembly for a file
+src/easy/balanced_binary_tree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/balanced_binary_tree.cpp.s
+.PHONY : src/easy/balanced_binary_tree.cpp.s
+
 src/easy/best_time_to_buy_and_sell_stock.o: src/easy/best_time_to_buy_and_sell_stock.cpp.o
 .PHONY : src/easy/best_time_to_buy_and_sell_stock.o
 
@@ -199,6 +223,54 @@ src/easy/best_time_to_buy_and_sell_stock.s: src/easy/best_time_to_buy_and_sell_s
 src/easy/best_time_to_buy_and_sell_stock.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/best_time_to_buy_and_sell_stock.cpp.s
 .PHONY : src/easy/best_time_to_buy_and_sell_stock.cpp.s
+
+src/easy/best_time_to_buy_and_sell_stock_ii.o: src/easy/best_time_to_buy_and_sell_stock_ii.cpp.o
+.PHONY : src/easy/best_time_to_buy_and_sell_stock_ii.o
+
+# target to build an object file
+src/easy/best_time_to_buy_and_sell_stock_ii.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/best_time_to_buy_and_sell_stock_ii.cpp.o
+.PHONY : src/easy/best_time_to_buy_and_sell_stock_ii.cpp.o
+
+src/easy/best_time_to_buy_and_sell_stock_ii.i: src/easy/best_time_to_buy_and_sell_stock_ii.cpp.i
+.PHONY : src/easy/best_time_to_buy_and_sell_stock_ii.i
+
+# target to preprocess a source file
+src/easy/best_time_to_buy_and_sell_stock_ii.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/best_time_to_buy_and_sell_stock_ii.cpp.i
+.PHONY : src/easy/best_time_to_buy_and_sell_stock_ii.cpp.i
+
+src/easy/best_time_to_buy_and_sell_stock_ii.s: src/easy/best_time_to_buy_and_sell_stock_ii.cpp.s
+.PHONY : src/easy/best_time_to_buy_and_sell_stock_ii.s
+
+# target to generate assembly for a file
+src/easy/best_time_to_buy_and_sell_stock_ii.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/best_time_to_buy_and_sell_stock_ii.cpp.s
+.PHONY : src/easy/best_time_to_buy_and_sell_stock_ii.cpp.s
+
+src/easy/binary_search.o: src/easy/binary_search.cpp.o
+.PHONY : src/easy/binary_search.o
+
+# target to build an object file
+src/easy/binary_search.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/binary_search.cpp.o
+.PHONY : src/easy/binary_search.cpp.o
+
+src/easy/binary_search.i: src/easy/binary_search.cpp.i
+.PHONY : src/easy/binary_search.i
+
+# target to preprocess a source file
+src/easy/binary_search.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/binary_search.cpp.i
+.PHONY : src/easy/binary_search.cpp.i
+
+src/easy/binary_search.s: src/easy/binary_search.cpp.s
+.PHONY : src/easy/binary_search.s
+
+# target to generate assembly for a file
+src/easy/binary_search.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/binary_search.cpp.s
+.PHONY : src/easy/binary_search.cpp.s
 
 src/easy/binary_tree_inorder_traversal.o: src/easy/binary_tree_inorder_traversal.cpp.o
 .PHONY : src/easy/binary_tree_inorder_traversal.o
@@ -248,6 +320,54 @@ src/easy/climbing_stairs.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/climbing_stairs.cpp.s
 .PHONY : src/easy/climbing_stairs.cpp.s
 
+src/easy/convert_sorted_array_to_bst.o: src/easy/convert_sorted_array_to_bst.cpp.o
+.PHONY : src/easy/convert_sorted_array_to_bst.o
+
+# target to build an object file
+src/easy/convert_sorted_array_to_bst.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/convert_sorted_array_to_bst.cpp.o
+.PHONY : src/easy/convert_sorted_array_to_bst.cpp.o
+
+src/easy/convert_sorted_array_to_bst.i: src/easy/convert_sorted_array_to_bst.cpp.i
+.PHONY : src/easy/convert_sorted_array_to_bst.i
+
+# target to preprocess a source file
+src/easy/convert_sorted_array_to_bst.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/convert_sorted_array_to_bst.cpp.i
+.PHONY : src/easy/convert_sorted_array_to_bst.cpp.i
+
+src/easy/convert_sorted_array_to_bst.s: src/easy/convert_sorted_array_to_bst.cpp.s
+.PHONY : src/easy/convert_sorted_array_to_bst.s
+
+# target to generate assembly for a file
+src/easy/convert_sorted_array_to_bst.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/convert_sorted_array_to_bst.cpp.s
+.PHONY : src/easy/convert_sorted_array_to_bst.cpp.s
+
+src/easy/delete_node_in_linked_list.o: src/easy/delete_node_in_linked_list.cpp.o
+.PHONY : src/easy/delete_node_in_linked_list.o
+
+# target to build an object file
+src/easy/delete_node_in_linked_list.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/delete_node_in_linked_list.cpp.o
+.PHONY : src/easy/delete_node_in_linked_list.cpp.o
+
+src/easy/delete_node_in_linked_list.i: src/easy/delete_node_in_linked_list.cpp.i
+.PHONY : src/easy/delete_node_in_linked_list.i
+
+# target to preprocess a source file
+src/easy/delete_node_in_linked_list.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/delete_node_in_linked_list.cpp.i
+.PHONY : src/easy/delete_node_in_linked_list.cpp.i
+
+src/easy/delete_node_in_linked_list.s: src/easy/delete_node_in_linked_list.cpp.s
+.PHONY : src/easy/delete_node_in_linked_list.s
+
+# target to generate assembly for a file
+src/easy/delete_node_in_linked_list.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/delete_node_in_linked_list.cpp.s
+.PHONY : src/easy/delete_node_in_linked_list.cpp.s
+
 src/easy/find_index_of_first_occurrence.o: src/easy/find_index_of_first_occurrence.cpp.o
 .PHONY : src/easy/find_index_of_first_occurrence.o
 
@@ -271,6 +391,30 @@ src/easy/find_index_of_first_occurrence.s: src/easy/find_index_of_first_occurren
 src/easy/find_index_of_first_occurrence.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/find_index_of_first_occurrence.cpp.s
 .PHONY : src/easy/find_index_of_first_occurrence.cpp.s
+
+src/easy/first_bad_version.o: src/easy/first_bad_version.cpp.o
+.PHONY : src/easy/first_bad_version.o
+
+# target to build an object file
+src/easy/first_bad_version.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/first_bad_version.cpp.o
+.PHONY : src/easy/first_bad_version.cpp.o
+
+src/easy/first_bad_version.i: src/easy/first_bad_version.cpp.i
+.PHONY : src/easy/first_bad_version.i
+
+# target to preprocess a source file
+src/easy/first_bad_version.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/first_bad_version.cpp.i
+.PHONY : src/easy/first_bad_version.cpp.i
+
+src/easy/first_bad_version.s: src/easy/first_bad_version.cpp.s
+.PHONY : src/easy/first_bad_version.s
+
+# target to generate assembly for a file
+src/easy/first_bad_version.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/first_bad_version.cpp.s
+.PHONY : src/easy/first_bad_version.cpp.s
 
 src/easy/house_robber.o: src/easy/house_robber.cpp.o
 .PHONY : src/easy/house_robber.o
@@ -296,6 +440,54 @@ src/easy/house_robber.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/house_robber.cpp.s
 .PHONY : src/easy/house_robber.cpp.s
 
+src/easy/intersection_of_two_linked_lists.o: src/easy/intersection_of_two_linked_lists.cpp.o
+.PHONY : src/easy/intersection_of_two_linked_lists.o
+
+# target to build an object file
+src/easy/intersection_of_two_linked_lists.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/intersection_of_two_linked_lists.cpp.o
+.PHONY : src/easy/intersection_of_two_linked_lists.cpp.o
+
+src/easy/intersection_of_two_linked_lists.i: src/easy/intersection_of_two_linked_lists.cpp.i
+.PHONY : src/easy/intersection_of_two_linked_lists.i
+
+# target to preprocess a source file
+src/easy/intersection_of_two_linked_lists.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/intersection_of_two_linked_lists.cpp.i
+.PHONY : src/easy/intersection_of_two_linked_lists.cpp.i
+
+src/easy/intersection_of_two_linked_lists.s: src/easy/intersection_of_two_linked_lists.cpp.s
+.PHONY : src/easy/intersection_of_two_linked_lists.s
+
+# target to generate assembly for a file
+src/easy/intersection_of_two_linked_lists.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/intersection_of_two_linked_lists.cpp.s
+.PHONY : src/easy/intersection_of_two_linked_lists.cpp.s
+
+src/easy/invert_binary_tree.o: src/easy/invert_binary_tree.cpp.o
+.PHONY : src/easy/invert_binary_tree.o
+
+# target to build an object file
+src/easy/invert_binary_tree.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/invert_binary_tree.cpp.o
+.PHONY : src/easy/invert_binary_tree.cpp.o
+
+src/easy/invert_binary_tree.i: src/easy/invert_binary_tree.cpp.i
+.PHONY : src/easy/invert_binary_tree.i
+
+# target to preprocess a source file
+src/easy/invert_binary_tree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/invert_binary_tree.cpp.i
+.PHONY : src/easy/invert_binary_tree.cpp.i
+
+src/easy/invert_binary_tree.s: src/easy/invert_binary_tree.cpp.s
+.PHONY : src/easy/invert_binary_tree.s
+
+# target to generate assembly for a file
+src/easy/invert_binary_tree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/invert_binary_tree.cpp.s
+.PHONY : src/easy/invert_binary_tree.cpp.s
+
 src/easy/length_of_last_word.o: src/easy/length_of_last_word.cpp.o
 .PHONY : src/easy/length_of_last_word.o
 
@@ -319,6 +511,30 @@ src/easy/length_of_last_word.s: src/easy/length_of_last_word.cpp.s
 src/easy/length_of_last_word.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/length_of_last_word.cpp.s
 .PHONY : src/easy/length_of_last_word.cpp.s
+
+src/easy/linked_list_cycle.o: src/easy/linked_list_cycle.cpp.o
+.PHONY : src/easy/linked_list_cycle.o
+
+# target to build an object file
+src/easy/linked_list_cycle.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/linked_list_cycle.cpp.o
+.PHONY : src/easy/linked_list_cycle.cpp.o
+
+src/easy/linked_list_cycle.i: src/easy/linked_list_cycle.cpp.i
+.PHONY : src/easy/linked_list_cycle.i
+
+# target to preprocess a source file
+src/easy/linked_list_cycle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/linked_list_cycle.cpp.i
+.PHONY : src/easy/linked_list_cycle.cpp.i
+
+src/easy/linked_list_cycle.s: src/easy/linked_list_cycle.cpp.s
+.PHONY : src/easy/linked_list_cycle.s
+
+# target to generate assembly for a file
+src/easy/linked_list_cycle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/linked_list_cycle.cpp.s
+.PHONY : src/easy/linked_list_cycle.cpp.s
 
 src/easy/longest_common_prefix.o: src/easy/longest_common_prefix.cpp.o
 .PHONY : src/easy/longest_common_prefix.o
@@ -344,6 +560,30 @@ src/easy/longest_common_prefix.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/longest_common_prefix.cpp.s
 .PHONY : src/easy/longest_common_prefix.cpp.s
 
+src/easy/maximum_depth_binary_tree.o: src/easy/maximum_depth_binary_tree.cpp.o
+.PHONY : src/easy/maximum_depth_binary_tree.o
+
+# target to build an object file
+src/easy/maximum_depth_binary_tree.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/maximum_depth_binary_tree.cpp.o
+.PHONY : src/easy/maximum_depth_binary_tree.cpp.o
+
+src/easy/maximum_depth_binary_tree.i: src/easy/maximum_depth_binary_tree.cpp.i
+.PHONY : src/easy/maximum_depth_binary_tree.i
+
+# target to preprocess a source file
+src/easy/maximum_depth_binary_tree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/maximum_depth_binary_tree.cpp.i
+.PHONY : src/easy/maximum_depth_binary_tree.cpp.i
+
+src/easy/maximum_depth_binary_tree.s: src/easy/maximum_depth_binary_tree.cpp.s
+.PHONY : src/easy/maximum_depth_binary_tree.s
+
+# target to generate assembly for a file
+src/easy/maximum_depth_binary_tree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/maximum_depth_binary_tree.cpp.s
+.PHONY : src/easy/maximum_depth_binary_tree.cpp.s
+
 src/easy/maximum_subarray.o: src/easy/maximum_subarray.cpp.o
 .PHONY : src/easy/maximum_subarray.o
 
@@ -367,6 +607,30 @@ src/easy/maximum_subarray.s: src/easy/maximum_subarray.cpp.s
 src/easy/maximum_subarray.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/maximum_subarray.cpp.s
 .PHONY : src/easy/maximum_subarray.cpp.s
+
+src/easy/merge_sorted_array.o: src/easy/merge_sorted_array.cpp.o
+.PHONY : src/easy/merge_sorted_array.o
+
+# target to build an object file
+src/easy/merge_sorted_array.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/merge_sorted_array.cpp.o
+.PHONY : src/easy/merge_sorted_array.cpp.o
+
+src/easy/merge_sorted_array.i: src/easy/merge_sorted_array.cpp.i
+.PHONY : src/easy/merge_sorted_array.i
+
+# target to preprocess a source file
+src/easy/merge_sorted_array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/merge_sorted_array.cpp.i
+.PHONY : src/easy/merge_sorted_array.cpp.i
+
+src/easy/merge_sorted_array.s: src/easy/merge_sorted_array.cpp.s
+.PHONY : src/easy/merge_sorted_array.s
+
+# target to generate assembly for a file
+src/easy/merge_sorted_array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/merge_sorted_array.cpp.s
+.PHONY : src/easy/merge_sorted_array.cpp.s
 
 src/easy/merge_two_sorted_lists.o: src/easy/merge_two_sorted_lists.cpp.o
 .PHONY : src/easy/merge_two_sorted_lists.o
@@ -392,6 +656,54 @@ src/easy/merge_two_sorted_lists.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/merge_two_sorted_lists.cpp.s
 .PHONY : src/easy/merge_two_sorted_lists.cpp.s
 
+src/easy/minimum_depth_binary_tree.o: src/easy/minimum_depth_binary_tree.cpp.o
+.PHONY : src/easy/minimum_depth_binary_tree.o
+
+# target to build an object file
+src/easy/minimum_depth_binary_tree.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/minimum_depth_binary_tree.cpp.o
+.PHONY : src/easy/minimum_depth_binary_tree.cpp.o
+
+src/easy/minimum_depth_binary_tree.i: src/easy/minimum_depth_binary_tree.cpp.i
+.PHONY : src/easy/minimum_depth_binary_tree.i
+
+# target to preprocess a source file
+src/easy/minimum_depth_binary_tree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/minimum_depth_binary_tree.cpp.i
+.PHONY : src/easy/minimum_depth_binary_tree.cpp.i
+
+src/easy/minimum_depth_binary_tree.s: src/easy/minimum_depth_binary_tree.cpp.s
+.PHONY : src/easy/minimum_depth_binary_tree.s
+
+# target to generate assembly for a file
+src/easy/minimum_depth_binary_tree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/minimum_depth_binary_tree.cpp.s
+.PHONY : src/easy/minimum_depth_binary_tree.cpp.s
+
+src/easy/palindrome_linked_list.o: src/easy/palindrome_linked_list.cpp.o
+.PHONY : src/easy/palindrome_linked_list.o
+
+# target to build an object file
+src/easy/palindrome_linked_list.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/palindrome_linked_list.cpp.o
+.PHONY : src/easy/palindrome_linked_list.cpp.o
+
+src/easy/palindrome_linked_list.i: src/easy/palindrome_linked_list.cpp.i
+.PHONY : src/easy/palindrome_linked_list.i
+
+# target to preprocess a source file
+src/easy/palindrome_linked_list.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/palindrome_linked_list.cpp.i
+.PHONY : src/easy/palindrome_linked_list.cpp.i
+
+src/easy/palindrome_linked_list.s: src/easy/palindrome_linked_list.cpp.s
+.PHONY : src/easy/palindrome_linked_list.s
+
+# target to generate assembly for a file
+src/easy/palindrome_linked_list.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/palindrome_linked_list.cpp.s
+.PHONY : src/easy/palindrome_linked_list.cpp.s
+
 src/easy/palindrome_number.o: src/easy/palindrome_number.cpp.o
 .PHONY : src/easy/palindrome_number.o
 
@@ -415,6 +727,54 @@ src/easy/palindrome_number.s: src/easy/palindrome_number.cpp.s
 src/easy/palindrome_number.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/palindrome_number.cpp.s
 .PHONY : src/easy/palindrome_number.cpp.s
+
+src/easy/pascals_triangle.o: src/easy/pascals_triangle.cpp.o
+.PHONY : src/easy/pascals_triangle.o
+
+# target to build an object file
+src/easy/pascals_triangle.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle.cpp.o
+.PHONY : src/easy/pascals_triangle.cpp.o
+
+src/easy/pascals_triangle.i: src/easy/pascals_triangle.cpp.i
+.PHONY : src/easy/pascals_triangle.i
+
+# target to preprocess a source file
+src/easy/pascals_triangle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle.cpp.i
+.PHONY : src/easy/pascals_triangle.cpp.i
+
+src/easy/pascals_triangle.s: src/easy/pascals_triangle.cpp.s
+.PHONY : src/easy/pascals_triangle.s
+
+# target to generate assembly for a file
+src/easy/pascals_triangle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle.cpp.s
+.PHONY : src/easy/pascals_triangle.cpp.s
+
+src/easy/path_sum.o: src/easy/path_sum.cpp.o
+.PHONY : src/easy/path_sum.o
+
+# target to build an object file
+src/easy/path_sum.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/path_sum.cpp.o
+.PHONY : src/easy/path_sum.cpp.o
+
+src/easy/path_sum.i: src/easy/path_sum.cpp.i
+.PHONY : src/easy/path_sum.i
+
+# target to preprocess a source file
+src/easy/path_sum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/path_sum.cpp.i
+.PHONY : src/easy/path_sum.cpp.i
+
+src/easy/path_sum.s: src/easy/path_sum.cpp.s
+.PHONY : src/easy/path_sum.s
+
+# target to generate assembly for a file
+src/easy/path_sum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/path_sum.cpp.s
+.PHONY : src/easy/path_sum.cpp.s
 
 src/easy/plus_one.o: src/easy/plus_one.cpp.o
 .PHONY : src/easy/plus_one.o
@@ -464,6 +824,30 @@ src/easy/remove_duplicates_from_sorted_array.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_array.cpp.s
 .PHONY : src/easy/remove_duplicates_from_sorted_array.cpp.s
 
+src/easy/remove_duplicates_from_sorted_list.o: src/easy/remove_duplicates_from_sorted_list.cpp.o
+.PHONY : src/easy/remove_duplicates_from_sorted_list.o
+
+# target to build an object file
+src/easy/remove_duplicates_from_sorted_list.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_list.cpp.o
+.PHONY : src/easy/remove_duplicates_from_sorted_list.cpp.o
+
+src/easy/remove_duplicates_from_sorted_list.i: src/easy/remove_duplicates_from_sorted_list.cpp.i
+.PHONY : src/easy/remove_duplicates_from_sorted_list.i
+
+# target to preprocess a source file
+src/easy/remove_duplicates_from_sorted_list.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_list.cpp.i
+.PHONY : src/easy/remove_duplicates_from_sorted_list.cpp.i
+
+src/easy/remove_duplicates_from_sorted_list.s: src/easy/remove_duplicates_from_sorted_list.cpp.s
+.PHONY : src/easy/remove_duplicates_from_sorted_list.s
+
+# target to generate assembly for a file
+src/easy/remove_duplicates_from_sorted_list.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_list.cpp.s
+.PHONY : src/easy/remove_duplicates_from_sorted_list.cpp.s
+
 src/easy/remove_element.o: src/easy/remove_element.cpp.o
 .PHONY : src/easy/remove_element.o
 
@@ -487,6 +871,30 @@ src/easy/remove_element.s: src/easy/remove_element.cpp.s
 src/easy/remove_element.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/remove_element.cpp.s
 .PHONY : src/easy/remove_element.cpp.s
+
+src/easy/remove_linked_list_elements.o: src/easy/remove_linked_list_elements.cpp.o
+.PHONY : src/easy/remove_linked_list_elements.o
+
+# target to build an object file
+src/easy/remove_linked_list_elements.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/remove_linked_list_elements.cpp.o
+.PHONY : src/easy/remove_linked_list_elements.cpp.o
+
+src/easy/remove_linked_list_elements.i: src/easy/remove_linked_list_elements.cpp.i
+.PHONY : src/easy/remove_linked_list_elements.i
+
+# target to preprocess a source file
+src/easy/remove_linked_list_elements.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/remove_linked_list_elements.cpp.i
+.PHONY : src/easy/remove_linked_list_elements.cpp.i
+
+src/easy/remove_linked_list_elements.s: src/easy/remove_linked_list_elements.cpp.s
+.PHONY : src/easy/remove_linked_list_elements.s
+
+# target to generate assembly for a file
+src/easy/remove_linked_list_elements.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/remove_linked_list_elements.cpp.s
+.PHONY : src/easy/remove_linked_list_elements.cpp.s
 
 src/easy/reverse_integer.o: src/easy/reverse_integer.cpp.o
 .PHONY : src/easy/reverse_integer.o
@@ -512,6 +920,30 @@ src/easy/reverse_integer.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/reverse_integer.cpp.s
 .PHONY : src/easy/reverse_integer.cpp.s
 
+src/easy/reverse_linked_list.o: src/easy/reverse_linked_list.cpp.o
+.PHONY : src/easy/reverse_linked_list.o
+
+# target to build an object file
+src/easy/reverse_linked_list.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/reverse_linked_list.cpp.o
+.PHONY : src/easy/reverse_linked_list.cpp.o
+
+src/easy/reverse_linked_list.i: src/easy/reverse_linked_list.cpp.i
+.PHONY : src/easy/reverse_linked_list.i
+
+# target to preprocess a source file
+src/easy/reverse_linked_list.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/reverse_linked_list.cpp.i
+.PHONY : src/easy/reverse_linked_list.cpp.i
+
+src/easy/reverse_linked_list.s: src/easy/reverse_linked_list.cpp.s
+.PHONY : src/easy/reverse_linked_list.s
+
+# target to generate assembly for a file
+src/easy/reverse_linked_list.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/reverse_linked_list.cpp.s
+.PHONY : src/easy/reverse_linked_list.cpp.s
+
 src/easy/roman_to_integer.o: src/easy/roman_to_integer.cpp.o
 .PHONY : src/easy/roman_to_integer.o
 
@@ -535,6 +967,30 @@ src/easy/roman_to_integer.s: src/easy/roman_to_integer.cpp.s
 src/easy/roman_to_integer.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/roman_to_integer.cpp.s
 .PHONY : src/easy/roman_to_integer.cpp.s
+
+src/easy/same_tree.o: src/easy/same_tree.cpp.o
+.PHONY : src/easy/same_tree.o
+
+# target to build an object file
+src/easy/same_tree.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/same_tree.cpp.o
+.PHONY : src/easy/same_tree.cpp.o
+
+src/easy/same_tree.i: src/easy/same_tree.cpp.i
+.PHONY : src/easy/same_tree.i
+
+# target to preprocess a source file
+src/easy/same_tree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/same_tree.cpp.i
+.PHONY : src/easy/same_tree.cpp.i
+
+src/easy/same_tree.s: src/easy/same_tree.cpp.s
+.PHONY : src/easy/same_tree.s
+
+# target to generate assembly for a file
+src/easy/same_tree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/same_tree.cpp.s
+.PHONY : src/easy/same_tree.cpp.s
 
 src/easy/search_insert_position.o: src/easy/search_insert_position.cpp.o
 .PHONY : src/easy/search_insert_position.o
@@ -560,6 +1016,30 @@ src/easy/search_insert_position.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/search_insert_position.cpp.s
 .PHONY : src/easy/search_insert_position.cpp.s
 
+src/easy/single_number.o: src/easy/single_number.cpp.o
+.PHONY : src/easy/single_number.o
+
+# target to build an object file
+src/easy/single_number.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/single_number.cpp.o
+.PHONY : src/easy/single_number.cpp.o
+
+src/easy/single_number.i: src/easy/single_number.cpp.i
+.PHONY : src/easy/single_number.i
+
+# target to preprocess a source file
+src/easy/single_number.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/single_number.cpp.i
+.PHONY : src/easy/single_number.cpp.i
+
+src/easy/single_number.s: src/easy/single_number.cpp.s
+.PHONY : src/easy/single_number.s
+
+# target to generate assembly for a file
+src/easy/single_number.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/single_number.cpp.s
+.PHONY : src/easy/single_number.cpp.s
+
 src/easy/sqrt_x.o: src/easy/sqrt_x.cpp.o
 .PHONY : src/easy/sqrt_x.o
 
@@ -584,6 +1064,30 @@ src/easy/sqrt_x.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/sqrt_x.cpp.s
 .PHONY : src/easy/sqrt_x.cpp.s
 
+src/easy/symmetric_tree.o: src/easy/symmetric_tree.cpp.o
+.PHONY : src/easy/symmetric_tree.o
+
+# target to build an object file
+src/easy/symmetric_tree.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/symmetric_tree.cpp.o
+.PHONY : src/easy/symmetric_tree.cpp.o
+
+src/easy/symmetric_tree.i: src/easy/symmetric_tree.cpp.i
+.PHONY : src/easy/symmetric_tree.i
+
+# target to preprocess a source file
+src/easy/symmetric_tree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/symmetric_tree.cpp.i
+.PHONY : src/easy/symmetric_tree.cpp.i
+
+src/easy/symmetric_tree.s: src/easy/symmetric_tree.cpp.s
+.PHONY : src/easy/symmetric_tree.s
+
+# target to generate assembly for a file
+src/easy/symmetric_tree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/symmetric_tree.cpp.s
+.PHONY : src/easy/symmetric_tree.cpp.s
+
 src/easy/two_sum.o: src/easy/two_sum.cpp.o
 .PHONY : src/easy/two_sum.o
 
@@ -607,6 +1111,30 @@ src/easy/two_sum.s: src/easy/two_sum.cpp.s
 src/easy/two_sum.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/two_sum.cpp.s
 .PHONY : src/easy/two_sum.cpp.s
+
+src/easy/valid_anagram.o: src/easy/valid_anagram.cpp.o
+.PHONY : src/easy/valid_anagram.o
+
+# target to build an object file
+src/easy/valid_anagram.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/valid_anagram.cpp.o
+.PHONY : src/easy/valid_anagram.cpp.o
+
+src/easy/valid_anagram.i: src/easy/valid_anagram.cpp.i
+.PHONY : src/easy/valid_anagram.i
+
+# target to preprocess a source file
+src/easy/valid_anagram.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/valid_anagram.cpp.i
+.PHONY : src/easy/valid_anagram.cpp.i
+
+src/easy/valid_anagram.s: src/easy/valid_anagram.cpp.s
+.PHONY : src/easy/valid_anagram.s
+
+# target to generate assembly for a file
+src/easy/valid_anagram.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/valid_anagram.cpp.s
+.PHONY : src/easy/valid_anagram.cpp.s
 
 src/easy/valid_palindrome.o: src/easy/valid_palindrome.cpp.o
 .PHONY : src/easy/valid_palindrome.o
@@ -1352,6 +1880,30 @@ src/medium/next_permutation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/medium/next_permutation.cpp.s
 .PHONY : src/medium/next_permutation.cpp.s
 
+src/medium/number_of_islands.o: src/medium/number_of_islands.cpp.o
+.PHONY : src/medium/number_of_islands.o
+
+# target to build an object file
+src/medium/number_of_islands.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/medium/number_of_islands.cpp.o
+.PHONY : src/medium/number_of_islands.cpp.o
+
+src/medium/number_of_islands.i: src/medium/number_of_islands.cpp.i
+.PHONY : src/medium/number_of_islands.i
+
+# target to preprocess a source file
+src/medium/number_of_islands.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/medium/number_of_islands.cpp.i
+.PHONY : src/medium/number_of_islands.cpp.i
+
+src/medium/number_of_islands.s: src/medium/number_of_islands.cpp.s
+.PHONY : src/medium/number_of_islands.s
+
+# target to generate assembly for a file
+src/medium/number_of_islands.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/medium/number_of_islands.cpp.s
+.PHONY : src/medium/number_of_islands.cpp.s
+
 src/medium/palindromic_substrings.o: src/medium/palindromic_substrings.cpp.o
 .PHONY : src/medium/palindromic_substrings.o
 
@@ -1856,6 +2408,54 @@ tests/easy/roman_to_integer_test.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/roman_to_integer_test.cpp.s
 .PHONY : tests/easy/roman_to_integer_test.cpp.s
 
+tests/easy/test_best_time_to_buy_and_sell_stock_ii.o: tests/easy/test_best_time_to_buy_and_sell_stock_ii.cpp.o
+.PHONY : tests/easy/test_best_time_to_buy_and_sell_stock_ii.o
+
+# target to build an object file
+tests/easy/test_best_time_to_buy_and_sell_stock_ii.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_best_time_to_buy_and_sell_stock_ii.cpp.o
+.PHONY : tests/easy/test_best_time_to_buy_and_sell_stock_ii.cpp.o
+
+tests/easy/test_best_time_to_buy_and_sell_stock_ii.i: tests/easy/test_best_time_to_buy_and_sell_stock_ii.cpp.i
+.PHONY : tests/easy/test_best_time_to_buy_and_sell_stock_ii.i
+
+# target to preprocess a source file
+tests/easy/test_best_time_to_buy_and_sell_stock_ii.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_best_time_to_buy_and_sell_stock_ii.cpp.i
+.PHONY : tests/easy/test_best_time_to_buy_and_sell_stock_ii.cpp.i
+
+tests/easy/test_best_time_to_buy_and_sell_stock_ii.s: tests/easy/test_best_time_to_buy_and_sell_stock_ii.cpp.s
+.PHONY : tests/easy/test_best_time_to_buy_and_sell_stock_ii.s
+
+# target to generate assembly for a file
+tests/easy/test_best_time_to_buy_and_sell_stock_ii.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_best_time_to_buy_and_sell_stock_ii.cpp.s
+.PHONY : tests/easy/test_best_time_to_buy_and_sell_stock_ii.cpp.s
+
+tests/easy/test_binary_search.o: tests/easy/test_binary_search.cpp.o
+.PHONY : tests/easy/test_binary_search.o
+
+# target to build an object file
+tests/easy/test_binary_search.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_binary_search.cpp.o
+.PHONY : tests/easy/test_binary_search.cpp.o
+
+tests/easy/test_binary_search.i: tests/easy/test_binary_search.cpp.i
+.PHONY : tests/easy/test_binary_search.i
+
+# target to preprocess a source file
+tests/easy/test_binary_search.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_binary_search.cpp.i
+.PHONY : tests/easy/test_binary_search.cpp.i
+
+tests/easy/test_binary_search.s: tests/easy/test_binary_search.cpp.s
+.PHONY : tests/easy/test_binary_search.s
+
+# target to generate assembly for a file
+tests/easy/test_binary_search.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_binary_search.cpp.s
+.PHONY : tests/easy/test_binary_search.cpp.s
+
 tests/easy/test_binary_tree_inorder_traversal.o: tests/easy/test_binary_tree_inorder_traversal.cpp.o
 .PHONY : tests/easy/test_binary_tree_inorder_traversal.o
 
@@ -1880,6 +2480,54 @@ tests/easy/test_binary_tree_inorder_traversal.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_binary_tree_inorder_traversal.cpp.s
 .PHONY : tests/easy/test_binary_tree_inorder_traversal.cpp.s
 
+tests/easy/test_convert_sorted_array_to_bst.o: tests/easy/test_convert_sorted_array_to_bst.cpp.o
+.PHONY : tests/easy/test_convert_sorted_array_to_bst.o
+
+# target to build an object file
+tests/easy/test_convert_sorted_array_to_bst.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_convert_sorted_array_to_bst.cpp.o
+.PHONY : tests/easy/test_convert_sorted_array_to_bst.cpp.o
+
+tests/easy/test_convert_sorted_array_to_bst.i: tests/easy/test_convert_sorted_array_to_bst.cpp.i
+.PHONY : tests/easy/test_convert_sorted_array_to_bst.i
+
+# target to preprocess a source file
+tests/easy/test_convert_sorted_array_to_bst.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_convert_sorted_array_to_bst.cpp.i
+.PHONY : tests/easy/test_convert_sorted_array_to_bst.cpp.i
+
+tests/easy/test_convert_sorted_array_to_bst.s: tests/easy/test_convert_sorted_array_to_bst.cpp.s
+.PHONY : tests/easy/test_convert_sorted_array_to_bst.s
+
+# target to generate assembly for a file
+tests/easy/test_convert_sorted_array_to_bst.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_convert_sorted_array_to_bst.cpp.s
+.PHONY : tests/easy/test_convert_sorted_array_to_bst.cpp.s
+
+tests/easy/test_delete_node_in_linked_list.o: tests/easy/test_delete_node_in_linked_list.cpp.o
+.PHONY : tests/easy/test_delete_node_in_linked_list.o
+
+# target to build an object file
+tests/easy/test_delete_node_in_linked_list.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_delete_node_in_linked_list.cpp.o
+.PHONY : tests/easy/test_delete_node_in_linked_list.cpp.o
+
+tests/easy/test_delete_node_in_linked_list.i: tests/easy/test_delete_node_in_linked_list.cpp.i
+.PHONY : tests/easy/test_delete_node_in_linked_list.i
+
+# target to preprocess a source file
+tests/easy/test_delete_node_in_linked_list.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_delete_node_in_linked_list.cpp.i
+.PHONY : tests/easy/test_delete_node_in_linked_list.cpp.i
+
+tests/easy/test_delete_node_in_linked_list.s: tests/easy/test_delete_node_in_linked_list.cpp.s
+.PHONY : tests/easy/test_delete_node_in_linked_list.s
+
+# target to generate assembly for a file
+tests/easy/test_delete_node_in_linked_list.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_delete_node_in_linked_list.cpp.s
+.PHONY : tests/easy/test_delete_node_in_linked_list.cpp.s
+
 tests/easy/test_house_robber.o: tests/easy/test_house_robber.cpp.o
 .PHONY : tests/easy/test_house_robber.o
 
@@ -1903,6 +2551,342 @@ tests/easy/test_house_robber.s: tests/easy/test_house_robber.cpp.s
 tests/easy/test_house_robber.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_house_robber.cpp.s
 .PHONY : tests/easy/test_house_robber.cpp.s
+
+tests/easy/test_intersection_of_two_linked_lists.o: tests/easy/test_intersection_of_two_linked_lists.cpp.o
+.PHONY : tests/easy/test_intersection_of_two_linked_lists.o
+
+# target to build an object file
+tests/easy/test_intersection_of_two_linked_lists.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_intersection_of_two_linked_lists.cpp.o
+.PHONY : tests/easy/test_intersection_of_two_linked_lists.cpp.o
+
+tests/easy/test_intersection_of_two_linked_lists.i: tests/easy/test_intersection_of_two_linked_lists.cpp.i
+.PHONY : tests/easy/test_intersection_of_two_linked_lists.i
+
+# target to preprocess a source file
+tests/easy/test_intersection_of_two_linked_lists.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_intersection_of_two_linked_lists.cpp.i
+.PHONY : tests/easy/test_intersection_of_two_linked_lists.cpp.i
+
+tests/easy/test_intersection_of_two_linked_lists.s: tests/easy/test_intersection_of_two_linked_lists.cpp.s
+.PHONY : tests/easy/test_intersection_of_two_linked_lists.s
+
+# target to generate assembly for a file
+tests/easy/test_intersection_of_two_linked_lists.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_intersection_of_two_linked_lists.cpp.s
+.PHONY : tests/easy/test_intersection_of_two_linked_lists.cpp.s
+
+tests/easy/test_linked_list_cycle.o: tests/easy/test_linked_list_cycle.cpp.o
+.PHONY : tests/easy/test_linked_list_cycle.o
+
+# target to build an object file
+tests/easy/test_linked_list_cycle.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_linked_list_cycle.cpp.o
+.PHONY : tests/easy/test_linked_list_cycle.cpp.o
+
+tests/easy/test_linked_list_cycle.i: tests/easy/test_linked_list_cycle.cpp.i
+.PHONY : tests/easy/test_linked_list_cycle.i
+
+# target to preprocess a source file
+tests/easy/test_linked_list_cycle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_linked_list_cycle.cpp.i
+.PHONY : tests/easy/test_linked_list_cycle.cpp.i
+
+tests/easy/test_linked_list_cycle.s: tests/easy/test_linked_list_cycle.cpp.s
+.PHONY : tests/easy/test_linked_list_cycle.s
+
+# target to generate assembly for a file
+tests/easy/test_linked_list_cycle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_linked_list_cycle.cpp.s
+.PHONY : tests/easy/test_linked_list_cycle.cpp.s
+
+tests/easy/test_maximum_depth_binary_tree.o: tests/easy/test_maximum_depth_binary_tree.cpp.o
+.PHONY : tests/easy/test_maximum_depth_binary_tree.o
+
+# target to build an object file
+tests/easy/test_maximum_depth_binary_tree.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_maximum_depth_binary_tree.cpp.o
+.PHONY : tests/easy/test_maximum_depth_binary_tree.cpp.o
+
+tests/easy/test_maximum_depth_binary_tree.i: tests/easy/test_maximum_depth_binary_tree.cpp.i
+.PHONY : tests/easy/test_maximum_depth_binary_tree.i
+
+# target to preprocess a source file
+tests/easy/test_maximum_depth_binary_tree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_maximum_depth_binary_tree.cpp.i
+.PHONY : tests/easy/test_maximum_depth_binary_tree.cpp.i
+
+tests/easy/test_maximum_depth_binary_tree.s: tests/easy/test_maximum_depth_binary_tree.cpp.s
+.PHONY : tests/easy/test_maximum_depth_binary_tree.s
+
+# target to generate assembly for a file
+tests/easy/test_maximum_depth_binary_tree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_maximum_depth_binary_tree.cpp.s
+.PHONY : tests/easy/test_maximum_depth_binary_tree.cpp.s
+
+tests/easy/test_minimum_depth_binary_tree.o: tests/easy/test_minimum_depth_binary_tree.cpp.o
+.PHONY : tests/easy/test_minimum_depth_binary_tree.o
+
+# target to build an object file
+tests/easy/test_minimum_depth_binary_tree.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_minimum_depth_binary_tree.cpp.o
+.PHONY : tests/easy/test_minimum_depth_binary_tree.cpp.o
+
+tests/easy/test_minimum_depth_binary_tree.i: tests/easy/test_minimum_depth_binary_tree.cpp.i
+.PHONY : tests/easy/test_minimum_depth_binary_tree.i
+
+# target to preprocess a source file
+tests/easy/test_minimum_depth_binary_tree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_minimum_depth_binary_tree.cpp.i
+.PHONY : tests/easy/test_minimum_depth_binary_tree.cpp.i
+
+tests/easy/test_minimum_depth_binary_tree.s: tests/easy/test_minimum_depth_binary_tree.cpp.s
+.PHONY : tests/easy/test_minimum_depth_binary_tree.s
+
+# target to generate assembly for a file
+tests/easy/test_minimum_depth_binary_tree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_minimum_depth_binary_tree.cpp.s
+.PHONY : tests/easy/test_minimum_depth_binary_tree.cpp.s
+
+tests/easy/test_palindrome_linked_list.o: tests/easy/test_palindrome_linked_list.cpp.o
+.PHONY : tests/easy/test_palindrome_linked_list.o
+
+# target to build an object file
+tests/easy/test_palindrome_linked_list.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_palindrome_linked_list.cpp.o
+.PHONY : tests/easy/test_palindrome_linked_list.cpp.o
+
+tests/easy/test_palindrome_linked_list.i: tests/easy/test_palindrome_linked_list.cpp.i
+.PHONY : tests/easy/test_palindrome_linked_list.i
+
+# target to preprocess a source file
+tests/easy/test_palindrome_linked_list.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_palindrome_linked_list.cpp.i
+.PHONY : tests/easy/test_palindrome_linked_list.cpp.i
+
+tests/easy/test_palindrome_linked_list.s: tests/easy/test_palindrome_linked_list.cpp.s
+.PHONY : tests/easy/test_palindrome_linked_list.s
+
+# target to generate assembly for a file
+tests/easy/test_palindrome_linked_list.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_palindrome_linked_list.cpp.s
+.PHONY : tests/easy/test_palindrome_linked_list.cpp.s
+
+tests/easy/test_pascals_triangle.o: tests/easy/test_pascals_triangle.cpp.o
+.PHONY : tests/easy/test_pascals_triangle.o
+
+# target to build an object file
+tests/easy/test_pascals_triangle.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_pascals_triangle.cpp.o
+.PHONY : tests/easy/test_pascals_triangle.cpp.o
+
+tests/easy/test_pascals_triangle.i: tests/easy/test_pascals_triangle.cpp.i
+.PHONY : tests/easy/test_pascals_triangle.i
+
+# target to preprocess a source file
+tests/easy/test_pascals_triangle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_pascals_triangle.cpp.i
+.PHONY : tests/easy/test_pascals_triangle.cpp.i
+
+tests/easy/test_pascals_triangle.s: tests/easy/test_pascals_triangle.cpp.s
+.PHONY : tests/easy/test_pascals_triangle.s
+
+# target to generate assembly for a file
+tests/easy/test_pascals_triangle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_pascals_triangle.cpp.s
+.PHONY : tests/easy/test_pascals_triangle.cpp.s
+
+tests/easy/test_path_sum.o: tests/easy/test_path_sum.cpp.o
+.PHONY : tests/easy/test_path_sum.o
+
+# target to build an object file
+tests/easy/test_path_sum.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_path_sum.cpp.o
+.PHONY : tests/easy/test_path_sum.cpp.o
+
+tests/easy/test_path_sum.i: tests/easy/test_path_sum.cpp.i
+.PHONY : tests/easy/test_path_sum.i
+
+# target to preprocess a source file
+tests/easy/test_path_sum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_path_sum.cpp.i
+.PHONY : tests/easy/test_path_sum.cpp.i
+
+tests/easy/test_path_sum.s: tests/easy/test_path_sum.cpp.s
+.PHONY : tests/easy/test_path_sum.s
+
+# target to generate assembly for a file
+tests/easy/test_path_sum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_path_sum.cpp.s
+.PHONY : tests/easy/test_path_sum.cpp.s
+
+tests/easy/test_remove_duplicates_from_sorted_list.o: tests/easy/test_remove_duplicates_from_sorted_list.cpp.o
+.PHONY : tests/easy/test_remove_duplicates_from_sorted_list.o
+
+# target to build an object file
+tests/easy/test_remove_duplicates_from_sorted_list.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_duplicates_from_sorted_list.cpp.o
+.PHONY : tests/easy/test_remove_duplicates_from_sorted_list.cpp.o
+
+tests/easy/test_remove_duplicates_from_sorted_list.i: tests/easy/test_remove_duplicates_from_sorted_list.cpp.i
+.PHONY : tests/easy/test_remove_duplicates_from_sorted_list.i
+
+# target to preprocess a source file
+tests/easy/test_remove_duplicates_from_sorted_list.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_duplicates_from_sorted_list.cpp.i
+.PHONY : tests/easy/test_remove_duplicates_from_sorted_list.cpp.i
+
+tests/easy/test_remove_duplicates_from_sorted_list.s: tests/easy/test_remove_duplicates_from_sorted_list.cpp.s
+.PHONY : tests/easy/test_remove_duplicates_from_sorted_list.s
+
+# target to generate assembly for a file
+tests/easy/test_remove_duplicates_from_sorted_list.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_duplicates_from_sorted_list.cpp.s
+.PHONY : tests/easy/test_remove_duplicates_from_sorted_list.cpp.s
+
+tests/easy/test_remove_linked_list_elements.o: tests/easy/test_remove_linked_list_elements.cpp.o
+.PHONY : tests/easy/test_remove_linked_list_elements.o
+
+# target to build an object file
+tests/easy/test_remove_linked_list_elements.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_linked_list_elements.cpp.o
+.PHONY : tests/easy/test_remove_linked_list_elements.cpp.o
+
+tests/easy/test_remove_linked_list_elements.i: tests/easy/test_remove_linked_list_elements.cpp.i
+.PHONY : tests/easy/test_remove_linked_list_elements.i
+
+# target to preprocess a source file
+tests/easy/test_remove_linked_list_elements.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_linked_list_elements.cpp.i
+.PHONY : tests/easy/test_remove_linked_list_elements.cpp.i
+
+tests/easy/test_remove_linked_list_elements.s: tests/easy/test_remove_linked_list_elements.cpp.s
+.PHONY : tests/easy/test_remove_linked_list_elements.s
+
+# target to generate assembly for a file
+tests/easy/test_remove_linked_list_elements.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_linked_list_elements.cpp.s
+.PHONY : tests/easy/test_remove_linked_list_elements.cpp.s
+
+tests/easy/test_reverse_linked_list.o: tests/easy/test_reverse_linked_list.cpp.o
+.PHONY : tests/easy/test_reverse_linked_list.o
+
+# target to build an object file
+tests/easy/test_reverse_linked_list.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_linked_list.cpp.o
+.PHONY : tests/easy/test_reverse_linked_list.cpp.o
+
+tests/easy/test_reverse_linked_list.i: tests/easy/test_reverse_linked_list.cpp.i
+.PHONY : tests/easy/test_reverse_linked_list.i
+
+# target to preprocess a source file
+tests/easy/test_reverse_linked_list.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_linked_list.cpp.i
+.PHONY : tests/easy/test_reverse_linked_list.cpp.i
+
+tests/easy/test_reverse_linked_list.s: tests/easy/test_reverse_linked_list.cpp.s
+.PHONY : tests/easy/test_reverse_linked_list.s
+
+# target to generate assembly for a file
+tests/easy/test_reverse_linked_list.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_linked_list.cpp.s
+.PHONY : tests/easy/test_reverse_linked_list.cpp.s
+
+tests/easy/test_same_tree.o: tests/easy/test_same_tree.cpp.o
+.PHONY : tests/easy/test_same_tree.o
+
+# target to build an object file
+tests/easy/test_same_tree.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_same_tree.cpp.o
+.PHONY : tests/easy/test_same_tree.cpp.o
+
+tests/easy/test_same_tree.i: tests/easy/test_same_tree.cpp.i
+.PHONY : tests/easy/test_same_tree.i
+
+# target to preprocess a source file
+tests/easy/test_same_tree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_same_tree.cpp.i
+.PHONY : tests/easy/test_same_tree.cpp.i
+
+tests/easy/test_same_tree.s: tests/easy/test_same_tree.cpp.s
+.PHONY : tests/easy/test_same_tree.s
+
+# target to generate assembly for a file
+tests/easy/test_same_tree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_same_tree.cpp.s
+.PHONY : tests/easy/test_same_tree.cpp.s
+
+tests/easy/test_single_number.o: tests/easy/test_single_number.cpp.o
+.PHONY : tests/easy/test_single_number.o
+
+# target to build an object file
+tests/easy/test_single_number.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_single_number.cpp.o
+.PHONY : tests/easy/test_single_number.cpp.o
+
+tests/easy/test_single_number.i: tests/easy/test_single_number.cpp.i
+.PHONY : tests/easy/test_single_number.i
+
+# target to preprocess a source file
+tests/easy/test_single_number.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_single_number.cpp.i
+.PHONY : tests/easy/test_single_number.cpp.i
+
+tests/easy/test_single_number.s: tests/easy/test_single_number.cpp.s
+.PHONY : tests/easy/test_single_number.s
+
+# target to generate assembly for a file
+tests/easy/test_single_number.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_single_number.cpp.s
+.PHONY : tests/easy/test_single_number.cpp.s
+
+tests/easy/test_symmetric_tree.o: tests/easy/test_symmetric_tree.cpp.o
+.PHONY : tests/easy/test_symmetric_tree.o
+
+# target to build an object file
+tests/easy/test_symmetric_tree.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_symmetric_tree.cpp.o
+.PHONY : tests/easy/test_symmetric_tree.cpp.o
+
+tests/easy/test_symmetric_tree.i: tests/easy/test_symmetric_tree.cpp.i
+.PHONY : tests/easy/test_symmetric_tree.i
+
+# target to preprocess a source file
+tests/easy/test_symmetric_tree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_symmetric_tree.cpp.i
+.PHONY : tests/easy/test_symmetric_tree.cpp.i
+
+tests/easy/test_symmetric_tree.s: tests/easy/test_symmetric_tree.cpp.s
+.PHONY : tests/easy/test_symmetric_tree.s
+
+# target to generate assembly for a file
+tests/easy/test_symmetric_tree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_symmetric_tree.cpp.s
+.PHONY : tests/easy/test_symmetric_tree.cpp.s
+
+tests/easy/test_valid_anagram.o: tests/easy/test_valid_anagram.cpp.o
+.PHONY : tests/easy/test_valid_anagram.o
+
+# target to build an object file
+tests/easy/test_valid_anagram.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_anagram.cpp.o
+.PHONY : tests/easy/test_valid_anagram.cpp.o
+
+tests/easy/test_valid_anagram.i: tests/easy/test_valid_anagram.cpp.i
+.PHONY : tests/easy/test_valid_anagram.i
+
+# target to preprocess a source file
+tests/easy/test_valid_anagram.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_anagram.cpp.i
+.PHONY : tests/easy/test_valid_anagram.cpp.i
+
+tests/easy/test_valid_anagram.s: tests/easy/test_valid_anagram.cpp.s
+.PHONY : tests/easy/test_valid_anagram.s
+
+# target to generate assembly for a file
+tests/easy/test_valid_anagram.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_anagram.cpp.s
+.PHONY : tests/easy/test_valid_anagram.cpp.s
 
 tests/easy/test_valid_palindrome.o: tests/easy/test_valid_palindrome.cpp.o
 .PHONY : tests/easy/test_valid_palindrome.o
@@ -2552,6 +3536,30 @@ tests/medium/test_next_permutation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/medium/test_next_permutation.cpp.s
 .PHONY : tests/medium/test_next_permutation.cpp.s
 
+tests/medium/test_number_of_islands.o: tests/medium/test_number_of_islands.cpp.o
+.PHONY : tests/medium/test_number_of_islands.o
+
+# target to build an object file
+tests/medium/test_number_of_islands.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/medium/test_number_of_islands.cpp.o
+.PHONY : tests/medium/test_number_of_islands.cpp.o
+
+tests/medium/test_number_of_islands.i: tests/medium/test_number_of_islands.cpp.i
+.PHONY : tests/medium/test_number_of_islands.i
+
+# target to preprocess a source file
+tests/medium/test_number_of_islands.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/medium/test_number_of_islands.cpp.i
+.PHONY : tests/medium/test_number_of_islands.cpp.i
+
+tests/medium/test_number_of_islands.s: tests/medium/test_number_of_islands.cpp.s
+.PHONY : tests/medium/test_number_of_islands.s
+
+# target to generate assembly for a file
+tests/medium/test_number_of_islands.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/medium/test_number_of_islands.cpp.s
+.PHONY : tests/medium/test_number_of_islands.cpp.s
+
 tests/medium/test_palindromic_substrings.o: tests/medium/test_palindromic_substrings.cpp.o
 .PHONY : tests/medium/test_palindromic_substrings.o
 
@@ -2878,60 +3886,126 @@ help:
 	@echo "... src/easy/add_binary.o"
 	@echo "... src/easy/add_binary.i"
 	@echo "... src/easy/add_binary.s"
+	@echo "... src/easy/balanced_binary_tree.o"
+	@echo "... src/easy/balanced_binary_tree.i"
+	@echo "... src/easy/balanced_binary_tree.s"
 	@echo "... src/easy/best_time_to_buy_and_sell_stock.o"
 	@echo "... src/easy/best_time_to_buy_and_sell_stock.i"
 	@echo "... src/easy/best_time_to_buy_and_sell_stock.s"
+	@echo "... src/easy/best_time_to_buy_and_sell_stock_ii.o"
+	@echo "... src/easy/best_time_to_buy_and_sell_stock_ii.i"
+	@echo "... src/easy/best_time_to_buy_and_sell_stock_ii.s"
+	@echo "... src/easy/binary_search.o"
+	@echo "... src/easy/binary_search.i"
+	@echo "... src/easy/binary_search.s"
 	@echo "... src/easy/binary_tree_inorder_traversal.o"
 	@echo "... src/easy/binary_tree_inorder_traversal.i"
 	@echo "... src/easy/binary_tree_inorder_traversal.s"
 	@echo "... src/easy/climbing_stairs.o"
 	@echo "... src/easy/climbing_stairs.i"
 	@echo "... src/easy/climbing_stairs.s"
+	@echo "... src/easy/convert_sorted_array_to_bst.o"
+	@echo "... src/easy/convert_sorted_array_to_bst.i"
+	@echo "... src/easy/convert_sorted_array_to_bst.s"
+	@echo "... src/easy/delete_node_in_linked_list.o"
+	@echo "... src/easy/delete_node_in_linked_list.i"
+	@echo "... src/easy/delete_node_in_linked_list.s"
 	@echo "... src/easy/find_index_of_first_occurrence.o"
 	@echo "... src/easy/find_index_of_first_occurrence.i"
 	@echo "... src/easy/find_index_of_first_occurrence.s"
+	@echo "... src/easy/first_bad_version.o"
+	@echo "... src/easy/first_bad_version.i"
+	@echo "... src/easy/first_bad_version.s"
 	@echo "... src/easy/house_robber.o"
 	@echo "... src/easy/house_robber.i"
 	@echo "... src/easy/house_robber.s"
+	@echo "... src/easy/intersection_of_two_linked_lists.o"
+	@echo "... src/easy/intersection_of_two_linked_lists.i"
+	@echo "... src/easy/intersection_of_two_linked_lists.s"
+	@echo "... src/easy/invert_binary_tree.o"
+	@echo "... src/easy/invert_binary_tree.i"
+	@echo "... src/easy/invert_binary_tree.s"
 	@echo "... src/easy/length_of_last_word.o"
 	@echo "... src/easy/length_of_last_word.i"
 	@echo "... src/easy/length_of_last_word.s"
+	@echo "... src/easy/linked_list_cycle.o"
+	@echo "... src/easy/linked_list_cycle.i"
+	@echo "... src/easy/linked_list_cycle.s"
 	@echo "... src/easy/longest_common_prefix.o"
 	@echo "... src/easy/longest_common_prefix.i"
 	@echo "... src/easy/longest_common_prefix.s"
+	@echo "... src/easy/maximum_depth_binary_tree.o"
+	@echo "... src/easy/maximum_depth_binary_tree.i"
+	@echo "... src/easy/maximum_depth_binary_tree.s"
 	@echo "... src/easy/maximum_subarray.o"
 	@echo "... src/easy/maximum_subarray.i"
 	@echo "... src/easy/maximum_subarray.s"
+	@echo "... src/easy/merge_sorted_array.o"
+	@echo "... src/easy/merge_sorted_array.i"
+	@echo "... src/easy/merge_sorted_array.s"
 	@echo "... src/easy/merge_two_sorted_lists.o"
 	@echo "... src/easy/merge_two_sorted_lists.i"
 	@echo "... src/easy/merge_two_sorted_lists.s"
+	@echo "... src/easy/minimum_depth_binary_tree.o"
+	@echo "... src/easy/minimum_depth_binary_tree.i"
+	@echo "... src/easy/minimum_depth_binary_tree.s"
+	@echo "... src/easy/palindrome_linked_list.o"
+	@echo "... src/easy/palindrome_linked_list.i"
+	@echo "... src/easy/palindrome_linked_list.s"
 	@echo "... src/easy/palindrome_number.o"
 	@echo "... src/easy/palindrome_number.i"
 	@echo "... src/easy/palindrome_number.s"
+	@echo "... src/easy/pascals_triangle.o"
+	@echo "... src/easy/pascals_triangle.i"
+	@echo "... src/easy/pascals_triangle.s"
+	@echo "... src/easy/path_sum.o"
+	@echo "... src/easy/path_sum.i"
+	@echo "... src/easy/path_sum.s"
 	@echo "... src/easy/plus_one.o"
 	@echo "... src/easy/plus_one.i"
 	@echo "... src/easy/plus_one.s"
 	@echo "... src/easy/remove_duplicates_from_sorted_array.o"
 	@echo "... src/easy/remove_duplicates_from_sorted_array.i"
 	@echo "... src/easy/remove_duplicates_from_sorted_array.s"
+	@echo "... src/easy/remove_duplicates_from_sorted_list.o"
+	@echo "... src/easy/remove_duplicates_from_sorted_list.i"
+	@echo "... src/easy/remove_duplicates_from_sorted_list.s"
 	@echo "... src/easy/remove_element.o"
 	@echo "... src/easy/remove_element.i"
 	@echo "... src/easy/remove_element.s"
+	@echo "... src/easy/remove_linked_list_elements.o"
+	@echo "... src/easy/remove_linked_list_elements.i"
+	@echo "... src/easy/remove_linked_list_elements.s"
 	@echo "... src/easy/reverse_integer.o"
 	@echo "... src/easy/reverse_integer.i"
 	@echo "... src/easy/reverse_integer.s"
+	@echo "... src/easy/reverse_linked_list.o"
+	@echo "... src/easy/reverse_linked_list.i"
+	@echo "... src/easy/reverse_linked_list.s"
 	@echo "... src/easy/roman_to_integer.o"
 	@echo "... src/easy/roman_to_integer.i"
 	@echo "... src/easy/roman_to_integer.s"
+	@echo "... src/easy/same_tree.o"
+	@echo "... src/easy/same_tree.i"
+	@echo "... src/easy/same_tree.s"
 	@echo "... src/easy/search_insert_position.o"
 	@echo "... src/easy/search_insert_position.i"
 	@echo "... src/easy/search_insert_position.s"
+	@echo "... src/easy/single_number.o"
+	@echo "... src/easy/single_number.i"
+	@echo "... src/easy/single_number.s"
 	@echo "... src/easy/sqrt_x.o"
 	@echo "... src/easy/sqrt_x.i"
 	@echo "... src/easy/sqrt_x.s"
+	@echo "... src/easy/symmetric_tree.o"
+	@echo "... src/easy/symmetric_tree.i"
+	@echo "... src/easy/symmetric_tree.s"
 	@echo "... src/easy/two_sum.o"
 	@echo "... src/easy/two_sum.i"
 	@echo "... src/easy/two_sum.s"
+	@echo "... src/easy/valid_anagram.o"
+	@echo "... src/easy/valid_anagram.i"
+	@echo "... src/easy/valid_anagram.s"
 	@echo "... src/easy/valid_palindrome.o"
 	@echo "... src/easy/valid_palindrome.i"
 	@echo "... src/easy/valid_palindrome.s"
@@ -3025,6 +4099,9 @@ help:
 	@echo "... src/medium/next_permutation.o"
 	@echo "... src/medium/next_permutation.i"
 	@echo "... src/medium/next_permutation.s"
+	@echo "... src/medium/number_of_islands.o"
+	@echo "... src/medium/number_of_islands.i"
+	@echo "... src/medium/number_of_islands.s"
 	@echo "... src/medium/palindromic_substrings.o"
 	@echo "... src/medium/palindromic_substrings.i"
 	@echo "... src/medium/palindromic_substrings.s"
@@ -3088,12 +4165,66 @@ help:
 	@echo "... tests/easy/roman_to_integer_test.o"
 	@echo "... tests/easy/roman_to_integer_test.i"
 	@echo "... tests/easy/roman_to_integer_test.s"
+	@echo "... tests/easy/test_best_time_to_buy_and_sell_stock_ii.o"
+	@echo "... tests/easy/test_best_time_to_buy_and_sell_stock_ii.i"
+	@echo "... tests/easy/test_best_time_to_buy_and_sell_stock_ii.s"
+	@echo "... tests/easy/test_binary_search.o"
+	@echo "... tests/easy/test_binary_search.i"
+	@echo "... tests/easy/test_binary_search.s"
 	@echo "... tests/easy/test_binary_tree_inorder_traversal.o"
 	@echo "... tests/easy/test_binary_tree_inorder_traversal.i"
 	@echo "... tests/easy/test_binary_tree_inorder_traversal.s"
+	@echo "... tests/easy/test_convert_sorted_array_to_bst.o"
+	@echo "... tests/easy/test_convert_sorted_array_to_bst.i"
+	@echo "... tests/easy/test_convert_sorted_array_to_bst.s"
+	@echo "... tests/easy/test_delete_node_in_linked_list.o"
+	@echo "... tests/easy/test_delete_node_in_linked_list.i"
+	@echo "... tests/easy/test_delete_node_in_linked_list.s"
 	@echo "... tests/easy/test_house_robber.o"
 	@echo "... tests/easy/test_house_robber.i"
 	@echo "... tests/easy/test_house_robber.s"
+	@echo "... tests/easy/test_intersection_of_two_linked_lists.o"
+	@echo "... tests/easy/test_intersection_of_two_linked_lists.i"
+	@echo "... tests/easy/test_intersection_of_two_linked_lists.s"
+	@echo "... tests/easy/test_linked_list_cycle.o"
+	@echo "... tests/easy/test_linked_list_cycle.i"
+	@echo "... tests/easy/test_linked_list_cycle.s"
+	@echo "... tests/easy/test_maximum_depth_binary_tree.o"
+	@echo "... tests/easy/test_maximum_depth_binary_tree.i"
+	@echo "... tests/easy/test_maximum_depth_binary_tree.s"
+	@echo "... tests/easy/test_minimum_depth_binary_tree.o"
+	@echo "... tests/easy/test_minimum_depth_binary_tree.i"
+	@echo "... tests/easy/test_minimum_depth_binary_tree.s"
+	@echo "... tests/easy/test_palindrome_linked_list.o"
+	@echo "... tests/easy/test_palindrome_linked_list.i"
+	@echo "... tests/easy/test_palindrome_linked_list.s"
+	@echo "... tests/easy/test_pascals_triangle.o"
+	@echo "... tests/easy/test_pascals_triangle.i"
+	@echo "... tests/easy/test_pascals_triangle.s"
+	@echo "... tests/easy/test_path_sum.o"
+	@echo "... tests/easy/test_path_sum.i"
+	@echo "... tests/easy/test_path_sum.s"
+	@echo "... tests/easy/test_remove_duplicates_from_sorted_list.o"
+	@echo "... tests/easy/test_remove_duplicates_from_sorted_list.i"
+	@echo "... tests/easy/test_remove_duplicates_from_sorted_list.s"
+	@echo "... tests/easy/test_remove_linked_list_elements.o"
+	@echo "... tests/easy/test_remove_linked_list_elements.i"
+	@echo "... tests/easy/test_remove_linked_list_elements.s"
+	@echo "... tests/easy/test_reverse_linked_list.o"
+	@echo "... tests/easy/test_reverse_linked_list.i"
+	@echo "... tests/easy/test_reverse_linked_list.s"
+	@echo "... tests/easy/test_same_tree.o"
+	@echo "... tests/easy/test_same_tree.i"
+	@echo "... tests/easy/test_same_tree.s"
+	@echo "... tests/easy/test_single_number.o"
+	@echo "... tests/easy/test_single_number.i"
+	@echo "... tests/easy/test_single_number.s"
+	@echo "... tests/easy/test_symmetric_tree.o"
+	@echo "... tests/easy/test_symmetric_tree.i"
+	@echo "... tests/easy/test_symmetric_tree.s"
+	@echo "... tests/easy/test_valid_anagram.o"
+	@echo "... tests/easy/test_valid_anagram.i"
+	@echo "... tests/easy/test_valid_anagram.s"
 	@echo "... tests/easy/test_valid_palindrome.o"
 	@echo "... tests/easy/test_valid_palindrome.i"
 	@echo "... tests/easy/test_valid_palindrome.s"
@@ -3175,6 +4306,9 @@ help:
 	@echo "... tests/medium/test_next_permutation.o"
 	@echo "... tests/medium/test_next_permutation.i"
 	@echo "... tests/medium/test_next_permutation.s"
+	@echo "... tests/medium/test_number_of_islands.o"
+	@echo "... tests/medium/test_number_of_islands.i"
+	@echo "... tests/medium/test_number_of_islands.s"
 	@echo "... tests/medium/test_palindromic_substrings.o"
 	@echo "... tests/medium/test_palindromic_substrings.i"
 	@echo "... tests/medium/test_palindromic_substrings.s"
