@@ -47,6 +47,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/leetcode_lib.dir/src/easy/merge_two_sorted_lists.cpp.o.d"
   "CMakeFiles/leetcode_lib.dir/src/easy/minimum_depth_binary_tree.cpp.o"
   "CMakeFiles/leetcode_lib.dir/src/easy/minimum_depth_binary_tree.cpp.o.d"
+  "CMakeFiles/leetcode_lib.dir/src/easy/number_of_1_bits.cpp.o"
+  "CMakeFiles/leetcode_lib.dir/src/easy/number_of_1_bits.cpp.o.d"
   "CMakeFiles/leetcode_lib.dir/src/easy/palindrome_linked_list.cpp.o"
   "CMakeFiles/leetcode_lib.dir/src/easy/palindrome_linked_list.cpp.o.d"
   "CMakeFiles/leetcode_lib.dir/src/easy/palindrome_number.cpp.o"

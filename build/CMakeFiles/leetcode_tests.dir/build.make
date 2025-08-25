@@ -338,10 +338,24 @@ CMakeFiles/leetcode_tests.dir/tests/easy/test_minimum_depth_binary_tree.cpp.s: c
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode_tests.dir/tests/easy/test_minimum_depth_binary_tree.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_minimum_depth_binary_tree.cpp -o CMakeFiles/leetcode_tests.dir/tests/easy/test_minimum_depth_binary_tree.cpp.s
 
+CMakeFiles/leetcode_tests.dir/tests/easy/test_number_of_1_bits.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
+CMakeFiles/leetcode_tests.dir/tests/easy/test_number_of_1_bits.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_number_of_1_bits.cpp
+CMakeFiles/leetcode_tests.dir/tests/easy/test_number_of_1_bits.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_number_of_1_bits.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/easy/test_number_of_1_bits.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/easy/test_number_of_1_bits.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/easy/test_number_of_1_bits.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_number_of_1_bits.cpp
+
+CMakeFiles/leetcode_tests.dir/tests/easy/test_number_of_1_bits.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/leetcode_tests.dir/tests/easy/test_number_of_1_bits.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_number_of_1_bits.cpp > CMakeFiles/leetcode_tests.dir/tests/easy/test_number_of_1_bits.cpp.i
+
+CMakeFiles/leetcode_tests.dir/tests/easy/test_number_of_1_bits.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode_tests.dir/tests/easy/test_number_of_1_bits.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_number_of_1_bits.cpp -o CMakeFiles/leetcode_tests.dir/tests/easy/test_number_of_1_bits.cpp.s
+
 CMakeFiles/leetcode_tests.dir/tests/easy/test_palindrome_linked_list.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/easy/test_palindrome_linked_list.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_palindrome_linked_list.cpp
 CMakeFiles/leetcode_tests.dir/tests/easy/test_palindrome_linked_list.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_palindrome_linked_list.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_palindrome_linked_list.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/easy/test_palindrome_linked_list.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/easy/test_palindrome_linked_list.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/easy/test_palindrome_linked_list.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_palindrome_linked_list.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/easy/test_palindrome_linked_list.cpp.i: cmake_force
@@ -355,7 +369,7 @@ CMakeFiles/leetcode_tests.dir/tests/easy/test_palindrome_linked_list.cpp.s: cmak
 CMakeFiles/leetcode_tests.dir/tests/easy/test_pascals_triangle.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/easy/test_pascals_triangle.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_pascals_triangle.cpp
 CMakeFiles/leetcode_tests.dir/tests/easy/test_pascals_triangle.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_pascals_triangle.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_pascals_triangle.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/easy/test_pascals_triangle.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/easy/test_pascals_triangle.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/easy/test_pascals_triangle.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_pascals_triangle.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/easy/test_pascals_triangle.cpp.i: cmake_force
@@ -369,7 +383,7 @@ CMakeFiles/leetcode_tests.dir/tests/easy/test_pascals_triangle.cpp.s: cmake_forc
 CMakeFiles/leetcode_tests.dir/tests/easy/test_path_sum.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/easy/test_path_sum.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_path_sum.cpp
 CMakeFiles/leetcode_tests.dir/tests/easy/test_path_sum.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_path_sum.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_path_sum.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/easy/test_path_sum.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/easy/test_path_sum.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/easy/test_path_sum.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_path_sum.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/easy/test_path_sum.cpp.i: cmake_force
@@ -383,7 +397,7 @@ CMakeFiles/leetcode_tests.dir/tests/easy/test_path_sum.cpp.s: cmake_force
 CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_duplicates_from_sorted_list.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_duplicates_from_sorted_list.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_remove_duplicates_from_sorted_list.cpp
 CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_duplicates_from_sorted_list.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_duplicates_from_sorted_list.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_duplicates_from_sorted_list.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_duplicates_from_sorted_list.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_duplicates_from_sorted_list.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_duplicates_from_sorted_list.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_remove_duplicates_from_sorted_list.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_duplicates_from_sorted_list.cpp.i: cmake_force
@@ -397,7 +411,7 @@ CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_duplicates_from_sorted_list
 CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_linked_list_elements.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_linked_list_elements.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_remove_linked_list_elements.cpp
 CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_linked_list_elements.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_linked_list_elements.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_linked_list_elements.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_linked_list_elements.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_linked_list_elements.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_linked_list_elements.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_remove_linked_list_elements.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_linked_list_elements.cpp.i: cmake_force
@@ -411,7 +425,7 @@ CMakeFiles/leetcode_tests.dir/tests/easy/test_remove_linked_list_elements.cpp.s:
 CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_bits.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_bits.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_reverse_bits.cpp
 CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_bits.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_bits.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_bits.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_bits.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_bits.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_bits.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_reverse_bits.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_bits.cpp.i: cmake_force
@@ -425,7 +439,7 @@ CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_bits.cpp.s: cmake_force
 CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_linked_list.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_linked_list.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_reverse_linked_list.cpp
 CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_linked_list.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_linked_list.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_linked_list.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_linked_list.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_linked_list.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_linked_list.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_reverse_linked_list.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_linked_list.cpp.i: cmake_force
@@ -439,7 +453,7 @@ CMakeFiles/leetcode_tests.dir/tests/easy/test_reverse_linked_list.cpp.s: cmake_f
 CMakeFiles/leetcode_tests.dir/tests/easy/test_same_tree.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/easy/test_same_tree.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_same_tree.cpp
 CMakeFiles/leetcode_tests.dir/tests/easy/test_same_tree.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_same_tree.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_same_tree.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/easy/test_same_tree.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/easy/test_same_tree.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/easy/test_same_tree.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_same_tree.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/easy/test_same_tree.cpp.i: cmake_force
@@ -453,7 +467,7 @@ CMakeFiles/leetcode_tests.dir/tests/easy/test_same_tree.cpp.s: cmake_force
 CMakeFiles/leetcode_tests.dir/tests/easy/test_single_number.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/easy/test_single_number.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_single_number.cpp
 CMakeFiles/leetcode_tests.dir/tests/easy/test_single_number.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_single_number.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_single_number.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/easy/test_single_number.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/easy/test_single_number.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/easy/test_single_number.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_single_number.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/easy/test_single_number.cpp.i: cmake_force
@@ -467,7 +481,7 @@ CMakeFiles/leetcode_tests.dir/tests/easy/test_single_number.cpp.s: cmake_force
 CMakeFiles/leetcode_tests.dir/tests/easy/test_symmetric_tree.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/easy/test_symmetric_tree.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_symmetric_tree.cpp
 CMakeFiles/leetcode_tests.dir/tests/easy/test_symmetric_tree.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_symmetric_tree.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_symmetric_tree.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/easy/test_symmetric_tree.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/easy/test_symmetric_tree.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/easy/test_symmetric_tree.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_symmetric_tree.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/easy/test_symmetric_tree.cpp.i: cmake_force
@@ -481,7 +495,7 @@ CMakeFiles/leetcode_tests.dir/tests/easy/test_symmetric_tree.cpp.s: cmake_force
 CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_anagram.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_anagram.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_valid_anagram.cpp
 CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_anagram.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_anagram.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_anagram.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_anagram.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_anagram.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_anagram.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_valid_anagram.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_anagram.cpp.i: cmake_force
@@ -495,7 +509,7 @@ CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_anagram.cpp.s: cmake_force
 CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_palindrome.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_palindrome.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_valid_palindrome.cpp
 CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_palindrome.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_palindrome.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_palindrome.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_palindrome.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_palindrome.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_palindrome.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/test_valid_palindrome.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_palindrome.cpp.i: cmake_force
@@ -509,7 +523,7 @@ CMakeFiles/leetcode_tests.dir/tests/easy/test_valid_palindrome.cpp.s: cmake_forc
 CMakeFiles/leetcode_tests.dir/tests/easy/two_sum_test.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/easy/two_sum_test.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/two_sum_test.cpp
 CMakeFiles/leetcode_tests.dir/tests/easy/two_sum_test.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/two_sum_test.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/two_sum_test.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/easy/two_sum_test.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/easy/two_sum_test.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/easy/two_sum_test.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/two_sum_test.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/easy/two_sum_test.cpp.i: cmake_force
@@ -523,7 +537,7 @@ CMakeFiles/leetcode_tests.dir/tests/easy/two_sum_test.cpp.s: cmake_force
 CMakeFiles/leetcode_tests.dir/tests/easy/valid_parentheses_test.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/easy/valid_parentheses_test.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/valid_parentheses_test.cpp
 CMakeFiles/leetcode_tests.dir/tests/easy/valid_parentheses_test.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/valid_parentheses_test.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/easy/valid_parentheses_test.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/easy/valid_parentheses_test.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/easy/valid_parentheses_test.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/easy/valid_parentheses_test.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/easy/valid_parentheses_test.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/easy/valid_parentheses_test.cpp.i: cmake_force
@@ -537,7 +551,7 @@ CMakeFiles/leetcode_tests.dir/tests/easy/valid_parentheses_test.cpp.s: cmake_for
 CMakeFiles/leetcode_tests.dir/tests/hard/median_of_two_sorted_arrays_test.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/hard/median_of_two_sorted_arrays_test.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/hard/median_of_two_sorted_arrays_test.cpp
 CMakeFiles/leetcode_tests.dir/tests/hard/median_of_two_sorted_arrays_test.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/hard/median_of_two_sorted_arrays_test.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/hard/median_of_two_sorted_arrays_test.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/hard/median_of_two_sorted_arrays_test.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/hard/median_of_two_sorted_arrays_test.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/hard/median_of_two_sorted_arrays_test.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/hard/median_of_two_sorted_arrays_test.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/hard/median_of_two_sorted_arrays_test.cpp.i: cmake_force
@@ -551,7 +565,7 @@ CMakeFiles/leetcode_tests.dir/tests/hard/median_of_two_sorted_arrays_test.cpp.s:
 CMakeFiles/leetcode_tests.dir/tests/hard/merge_k_sorted_lists_test.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/hard/merge_k_sorted_lists_test.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/hard/merge_k_sorted_lists_test.cpp
 CMakeFiles/leetcode_tests.dir/tests/hard/merge_k_sorted_lists_test.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/hard/merge_k_sorted_lists_test.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/hard/merge_k_sorted_lists_test.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/hard/merge_k_sorted_lists_test.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/hard/merge_k_sorted_lists_test.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/hard/merge_k_sorted_lists_test.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/hard/merge_k_sorted_lists_test.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/hard/merge_k_sorted_lists_test.cpp.i: cmake_force
@@ -565,7 +579,7 @@ CMakeFiles/leetcode_tests.dir/tests/hard/merge_k_sorted_lists_test.cpp.s: cmake_
 CMakeFiles/leetcode_tests.dir/tests/hard/test_edit_distance.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/hard/test_edit_distance.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/hard/test_edit_distance.cpp
 CMakeFiles/leetcode_tests.dir/tests/hard/test_edit_distance.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/hard/test_edit_distance.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/hard/test_edit_distance.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/hard/test_edit_distance.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/hard/test_edit_distance.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/hard/test_edit_distance.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/hard/test_edit_distance.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/hard/test_edit_distance.cpp.i: cmake_force
@@ -579,7 +593,7 @@ CMakeFiles/leetcode_tests.dir/tests/hard/test_edit_distance.cpp.s: cmake_force
 CMakeFiles/leetcode_tests.dir/tests/hard/test_first_missing_positive.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/hard/test_first_missing_positive.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/hard/test_first_missing_positive.cpp
 CMakeFiles/leetcode_tests.dir/tests/hard/test_first_missing_positive.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/hard/test_first_missing_positive.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/hard/test_first_missing_positive.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/hard/test_first_missing_positive.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/hard/test_first_missing_positive.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/hard/test_first_missing_positive.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/hard/test_first_missing_positive.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/hard/test_first_missing_positive.cpp.i: cmake_force
@@ -593,7 +607,7 @@ CMakeFiles/leetcode_tests.dir/tests/hard/test_first_missing_positive.cpp.s: cmak
 CMakeFiles/leetcode_tests.dir/tests/hard/test_minimum_window_substring.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/hard/test_minimum_window_substring.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/hard/test_minimum_window_substring.cpp
 CMakeFiles/leetcode_tests.dir/tests/hard/test_minimum_window_substring.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/hard/test_minimum_window_substring.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/hard/test_minimum_window_substring.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/hard/test_minimum_window_substring.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/hard/test_minimum_window_substring.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/hard/test_minimum_window_substring.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/hard/test_minimum_window_substring.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/hard/test_minimum_window_substring.cpp.i: cmake_force
@@ -607,7 +621,7 @@ CMakeFiles/leetcode_tests.dir/tests/hard/test_minimum_window_substring.cpp.s: cm
 CMakeFiles/leetcode_tests.dir/tests/hard/test_n_queens.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/hard/test_n_queens.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/hard/test_n_queens.cpp
 CMakeFiles/leetcode_tests.dir/tests/hard/test_n_queens.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/hard/test_n_queens.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/hard/test_n_queens.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/hard/test_n_queens.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/hard/test_n_queens.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/hard/test_n_queens.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/hard/test_n_queens.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/hard/test_n_queens.cpp.i: cmake_force
@@ -621,7 +635,7 @@ CMakeFiles/leetcode_tests.dir/tests/hard/test_n_queens.cpp.s: cmake_force
 CMakeFiles/leetcode_tests.dir/tests/hard/test_serialize_deserialize_binary_tree.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/hard/test_serialize_deserialize_binary_tree.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/hard/test_serialize_deserialize_binary_tree.cpp
 CMakeFiles/leetcode_tests.dir/tests/hard/test_serialize_deserialize_binary_tree.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/hard/test_serialize_deserialize_binary_tree.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/hard/test_serialize_deserialize_binary_tree.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/hard/test_serialize_deserialize_binary_tree.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/hard/test_serialize_deserialize_binary_tree.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/hard/test_serialize_deserialize_binary_tree.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/hard/test_serialize_deserialize_binary_tree.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/hard/test_serialize_deserialize_binary_tree.cpp.i: cmake_force
@@ -635,7 +649,7 @@ CMakeFiles/leetcode_tests.dir/tests/hard/test_serialize_deserialize_binary_tree.
 CMakeFiles/leetcode_tests.dir/tests/hard/test_sliding_window_maximum.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/hard/test_sliding_window_maximum.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/hard/test_sliding_window_maximum.cpp
 CMakeFiles/leetcode_tests.dir/tests/hard/test_sliding_window_maximum.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/hard/test_sliding_window_maximum.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/hard/test_sliding_window_maximum.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/hard/test_sliding_window_maximum.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/hard/test_sliding_window_maximum.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/hard/test_sliding_window_maximum.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/hard/test_sliding_window_maximum.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/hard/test_sliding_window_maximum.cpp.i: cmake_force
@@ -649,7 +663,7 @@ CMakeFiles/leetcode_tests.dir/tests/hard/test_sliding_window_maximum.cpp.s: cmak
 CMakeFiles/leetcode_tests.dir/tests/hard/trapping_rain_water_test.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/hard/trapping_rain_water_test.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/hard/trapping_rain_water_test.cpp
 CMakeFiles/leetcode_tests.dir/tests/hard/trapping_rain_water_test.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/hard/trapping_rain_water_test.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/hard/trapping_rain_water_test.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/hard/trapping_rain_water_test.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/hard/trapping_rain_water_test.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/hard/trapping_rain_water_test.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/hard/trapping_rain_water_test.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/hard/trapping_rain_water_test.cpp.i: cmake_force
@@ -663,7 +677,7 @@ CMakeFiles/leetcode_tests.dir/tests/hard/trapping_rain_water_test.cpp.s: cmake_f
 CMakeFiles/leetcode_tests.dir/tests/medium/longest_substring_without_repeating_test.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/longest_substring_without_repeating_test.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/longest_substring_without_repeating_test.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/longest_substring_without_repeating_test.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/longest_substring_without_repeating_test.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/longest_substring_without_repeating_test.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/longest_substring_without_repeating_test.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/longest_substring_without_repeating_test.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/longest_substring_without_repeating_test.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/longest_substring_without_repeating_test.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/longest_substring_without_repeating_test.cpp.i: cmake_force
@@ -677,7 +691,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/longest_substring_without_repeating_t
 CMakeFiles/leetcode_tests.dir/tests/medium/test_binary_tree_level_order_traversal.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_binary_tree_level_order_traversal.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_binary_tree_level_order_traversal.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_binary_tree_level_order_traversal.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_binary_tree_level_order_traversal.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_binary_tree_level_order_traversal.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_binary_tree_level_order_traversal.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_binary_tree_level_order_traversal.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_binary_tree_level_order_traversal.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_binary_tree_level_order_traversal.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_binary_tree_level_order_traversal.cpp.i: cmake_force
@@ -691,7 +705,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_binary_tree_level_order_traversa
 CMakeFiles/leetcode_tests.dir/tests/medium/test_clone_graph.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_clone_graph.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_clone_graph.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_clone_graph.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_clone_graph.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_clone_graph.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_clone_graph.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_clone_graph.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_clone_graph.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_clone_graph.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_clone_graph.cpp.i: cmake_force
@@ -705,7 +719,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_clone_graph.cpp.s: cmake_force
 CMakeFiles/leetcode_tests.dir/tests/medium/test_coin_change.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_coin_change.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_coin_change.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_coin_change.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_coin_change.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_coin_change.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_coin_change.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_coin_change.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_coin_change.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_coin_change.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_coin_change.cpp.i: cmake_force
@@ -719,7 +733,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_coin_change.cpp.s: cmake_force
 CMakeFiles/leetcode_tests.dir/tests/medium/test_combination_sum.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_combination_sum.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_combination_sum.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_combination_sum.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_combination_sum.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_combination_sum.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_combination_sum.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_combination_sum.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_combination_sum.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_combination_sum.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_combination_sum.cpp.i: cmake_force
@@ -733,7 +747,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_combination_sum.cpp.s: cmake_for
 CMakeFiles/leetcode_tests.dir/tests/medium/test_container_with_most_water.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_container_with_most_water.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_container_with_most_water.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_container_with_most_water.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_container_with_most_water.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_container_with_most_water.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_container_with_most_water.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_container_with_most_water.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_container_with_most_water.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_container_with_most_water.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_container_with_most_water.cpp.i: cmake_force
@@ -747,7 +761,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_container_with_most_water.cpp.s:
 CMakeFiles/leetcode_tests.dir/tests/medium/test_course_schedule.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_course_schedule.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_course_schedule.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_course_schedule.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_course_schedule.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_course_schedule.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_course_schedule.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_course_schedule.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_course_schedule.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_course_schedule.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_course_schedule.cpp.i: cmake_force
@@ -761,7 +775,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_course_schedule.cpp.s: cmake_for
 CMakeFiles/leetcode_tests.dir/tests/medium/test_group_anagrams.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_group_anagrams.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_group_anagrams.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_group_anagrams.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_group_anagrams.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_group_anagrams.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_group_anagrams.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_group_anagrams.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_group_anagrams.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_group_anagrams.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_group_anagrams.cpp.i: cmake_force
@@ -775,7 +789,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_group_anagrams.cpp.s: cmake_forc
 CMakeFiles/leetcode_tests.dir/tests/medium/test_kth_largest_element.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_kth_largest_element.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_kth_largest_element.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_kth_largest_element.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_kth_largest_element.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_kth_largest_element.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_kth_largest_element.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_kth_largest_element.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_kth_largest_element.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_kth_largest_element.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_kth_largest_element.cpp.i: cmake_force
@@ -789,7 +803,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_kth_largest_element.cpp.s: cmake
 CMakeFiles/leetcode_tests.dir/tests/medium/test_longest_increasing_subsequence.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_longest_increasing_subsequence.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_longest_increasing_subsequence.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_longest_increasing_subsequence.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_longest_increasing_subsequence.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_longest_increasing_subsequence.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_longest_increasing_subsequence.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_longest_increasing_subsequence.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_longest_increasing_subsequence.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_longest_increasing_subsequence.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_longest_increasing_subsequence.cpp.i: cmake_force
@@ -803,7 +817,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_longest_increasing_subsequence.c
 CMakeFiles/leetcode_tests.dir/tests/medium/test_longest_palindromic_substring.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_longest_palindromic_substring.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_longest_palindromic_substring.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_longest_palindromic_substring.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_longest_palindromic_substring.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_longest_palindromic_substring.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_longest_palindromic_substring.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_longest_palindromic_substring.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_longest_palindromic_substring.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_longest_palindromic_substring.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_longest_palindromic_substring.cpp.i: cmake_force
@@ -817,7 +831,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_longest_palindromic_substring.cp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_lru_cache.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_lru_cache.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_lru_cache.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_lru_cache.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_lru_cache.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_lru_cache.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_lru_cache.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_lru_cache.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_lru_cache.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_lru_cache.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_lru_cache.cpp.i: cmake_force
@@ -831,7 +845,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_lru_cache.cpp.s: cmake_force
 CMakeFiles/leetcode_tests.dir/tests/medium/test_maximum_product_subarray.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_maximum_product_subarray.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_maximum_product_subarray.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_maximum_product_subarray.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_maximum_product_subarray.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_maximum_product_subarray.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_maximum_product_subarray.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_maximum_product_subarray.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_maximum_product_subarray.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_maximum_product_subarray.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_maximum_product_subarray.cpp.i: cmake_force
@@ -845,7 +859,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_maximum_product_subarray.cpp.s: 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_merge_intervals.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_merge_intervals.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_merge_intervals.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_merge_intervals.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_merge_intervals.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_merge_intervals.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_merge_intervals.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_merge_intervals.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_merge_intervals.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_merge_intervals.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_merge_intervals.cpp.i: cmake_force
@@ -859,7 +873,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_merge_intervals.cpp.s: cmake_for
 CMakeFiles/leetcode_tests.dir/tests/medium/test_next_permutation.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_next_permutation.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_next_permutation.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_next_permutation.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_next_permutation.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_next_permutation.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_next_permutation.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_next_permutation.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_next_permutation.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_next_permutation.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_next_permutation.cpp.i: cmake_force
@@ -873,7 +887,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_next_permutation.cpp.s: cmake_fo
 CMakeFiles/leetcode_tests.dir/tests/medium/test_number_of_islands.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_number_of_islands.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_number_of_islands.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_number_of_islands.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_number_of_islands.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_number_of_islands.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_number_of_islands.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_number_of_islands.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_number_of_islands.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_number_of_islands.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_number_of_islands.cpp.i: cmake_force
@@ -887,7 +901,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_number_of_islands.cpp.s: cmake_f
 CMakeFiles/leetcode_tests.dir/tests/medium/test_palindromic_substrings.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_palindromic_substrings.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_palindromic_substrings.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_palindromic_substrings.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_palindromic_substrings.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_palindromic_substrings.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_palindromic_substrings.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_palindromic_substrings.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_palindromic_substrings.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_palindromic_substrings.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_palindromic_substrings.cpp.i: cmake_force
@@ -901,7 +915,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_palindromic_substrings.cpp.s: cm
 CMakeFiles/leetcode_tests.dir/tests/medium/test_permutations.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_permutations.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_permutations.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_permutations.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_permutations.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_permutations.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_permutations.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_permutations.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_permutations.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_permutations.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_permutations.cpp.i: cmake_force
@@ -915,7 +929,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_permutations.cpp.s: cmake_force
 CMakeFiles/leetcode_tests.dir/tests/medium/test_product_except_self.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_product_except_self.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_product_except_self.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_product_except_self.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_product_except_self.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_product_except_self.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_product_except_self.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_product_except_self.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_product_except_self.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_product_except_self.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_product_except_self.cpp.i: cmake_force
@@ -929,7 +943,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_product_except_self.cpp.s: cmake
 CMakeFiles/leetcode_tests.dir/tests/medium/test_rotting_oranges.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_rotting_oranges.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_rotting_oranges.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_rotting_oranges.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_rotting_oranges.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_rotting_oranges.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_rotting_oranges.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_rotting_oranges.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_rotting_oranges.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_rotting_oranges.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_rotting_oranges.cpp.i: cmake_force
@@ -943,7 +957,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_rotting_oranges.cpp.s: cmake_for
 CMakeFiles/leetcode_tests.dir/tests/medium/test_search_in_rotated_sorted_array.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_search_in_rotated_sorted_array.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_search_in_rotated_sorted_array.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_search_in_rotated_sorted_array.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_search_in_rotated_sorted_array.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_search_in_rotated_sorted_array.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_search_in_rotated_sorted_array.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_search_in_rotated_sorted_array.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_search_in_rotated_sorted_array.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_search_in_rotated_sorted_array.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_search_in_rotated_sorted_array.cpp.i: cmake_force
@@ -957,7 +971,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_search_in_rotated_sorted_array.c
 CMakeFiles/leetcode_tests.dir/tests/medium/test_top_k_frequent_elements.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_top_k_frequent_elements.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_top_k_frequent_elements.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_top_k_frequent_elements.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_top_k_frequent_elements.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_top_k_frequent_elements.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_top_k_frequent_elements.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_top_k_frequent_elements.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_top_k_frequent_elements.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_top_k_frequent_elements.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_top_k_frequent_elements.cpp.i: cmake_force
@@ -971,7 +985,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_top_k_frequent_elements.cpp.s: c
 CMakeFiles/leetcode_tests.dir/tests/medium/test_unique_paths.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_unique_paths.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_unique_paths.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_unique_paths.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_unique_paths.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_unique_paths.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_unique_paths.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_unique_paths.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_unique_paths.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_unique_paths.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_unique_paths.cpp.i: cmake_force
@@ -985,7 +999,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_unique_paths.cpp.s: cmake_force
 CMakeFiles/leetcode_tests.dir/tests/medium/test_valid_sudoku.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_valid_sudoku.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_valid_sudoku.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_valid_sudoku.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_valid_sudoku.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_valid_sudoku.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_valid_sudoku.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_valid_sudoku.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_valid_sudoku.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_valid_sudoku.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_valid_sudoku.cpp.i: cmake_force
@@ -999,7 +1013,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_valid_sudoku.cpp.s: cmake_force
 CMakeFiles/leetcode_tests.dir/tests/medium/test_validate_binary_search_tree.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_validate_binary_search_tree.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_validate_binary_search_tree.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_validate_binary_search_tree.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_validate_binary_search_tree.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_validate_binary_search_tree.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_validate_binary_search_tree.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_validate_binary_search_tree.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_validate_binary_search_tree.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_validate_binary_search_tree.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_validate_binary_search_tree.cpp.i: cmake_force
@@ -1013,7 +1027,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_validate_binary_search_tree.cpp.
 CMakeFiles/leetcode_tests.dir/tests/medium/test_word_break.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_word_break.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_word_break.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_word_break.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_word_break.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_word_break.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_word_break.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_word_break.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_word_break.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_word_break.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_word_break.cpp.i: cmake_force
@@ -1027,7 +1041,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_word_break.cpp.s: cmake_force
 CMakeFiles/leetcode_tests.dir/tests/medium/test_word_ladder.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_word_ladder.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_word_ladder.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_word_ladder.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_word_ladder.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_word_ladder.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_word_ladder.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_word_ladder.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_word_ladder.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_word_ladder.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_word_ladder.cpp.i: cmake_force
@@ -1041,7 +1055,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_word_ladder.cpp.s: cmake_force
 CMakeFiles/leetcode_tests.dir/tests/medium/test_word_search.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/test_word_search.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_word_search.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/test_word_search.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_word_search.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/test_word_search.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/test_word_search.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/test_word_search.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/test_word_search.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/test_word_search.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/test_word_search.cpp.i: cmake_force
@@ -1055,7 +1069,7 @@ CMakeFiles/leetcode_tests.dir/tests/medium/test_word_search.cpp.s: cmake_force
 CMakeFiles/leetcode_tests.dir/tests/medium/three_sum_test.cpp.o: CMakeFiles/leetcode_tests.dir/flags.make
 CMakeFiles/leetcode_tests.dir/tests/medium/three_sum_test.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/three_sum_test.cpp
 CMakeFiles/leetcode_tests.dir/tests/medium/three_sum_test.cpp.o: CMakeFiles/leetcode_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/three_sum_test.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object CMakeFiles/leetcode_tests.dir/tests/medium/three_sum_test.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_tests.dir/tests/medium/three_sum_test.cpp.o -MF CMakeFiles/leetcode_tests.dir/tests/medium/three_sum_test.cpp.o.d -o CMakeFiles/leetcode_tests.dir/tests/medium/three_sum_test.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/tests/medium/three_sum_test.cpp
 
 CMakeFiles/leetcode_tests.dir/tests/medium/three_sum_test.cpp.i: cmake_force
@@ -1087,6 +1101,7 @@ leetcode_tests_OBJECTS = \
 "CMakeFiles/leetcode_tests.dir/tests/easy/test_majority_element.cpp.o" \
 "CMakeFiles/leetcode_tests.dir/tests/easy/test_maximum_depth_binary_tree.cpp.o" \
 "CMakeFiles/leetcode_tests.dir/tests/easy/test_minimum_depth_binary_tree.cpp.o" \
+"CMakeFiles/leetcode_tests.dir/tests/easy/test_number_of_1_bits.cpp.o" \
 "CMakeFiles/leetcode_tests.dir/tests/easy/test_palindrome_linked_list.cpp.o" \
 "CMakeFiles/leetcode_tests.dir/tests/easy/test_pascals_triangle.cpp.o" \
 "CMakeFiles/leetcode_tests.dir/tests/easy/test_path_sum.cpp.o" \
@@ -1162,6 +1177,7 @@ leetcode_tests: CMakeFiles/leetcode_tests.dir/tests/easy/test_linked_list_cycle.
 leetcode_tests: CMakeFiles/leetcode_tests.dir/tests/easy/test_majority_element.cpp.o
 leetcode_tests: CMakeFiles/leetcode_tests.dir/tests/easy/test_maximum_depth_binary_tree.cpp.o
 leetcode_tests: CMakeFiles/leetcode_tests.dir/tests/easy/test_minimum_depth_binary_tree.cpp.o
+leetcode_tests: CMakeFiles/leetcode_tests.dir/tests/easy/test_number_of_1_bits.cpp.o
 leetcode_tests: CMakeFiles/leetcode_tests.dir/tests/easy/test_palindrome_linked_list.cpp.o
 leetcode_tests: CMakeFiles/leetcode_tests.dir/tests/easy/test_pascals_triangle.cpp.o
 leetcode_tests: CMakeFiles/leetcode_tests.dir/tests/easy/test_path_sum.cpp.o
@@ -1219,7 +1235,7 @@ leetcode_tests: libleetcode_lib.a
 leetcode_tests: /Users/owner/miniconda3/lib/libgtest_main.1.11.0.dylib
 leetcode_tests: /Users/owner/miniconda3/lib/libgtest.1.11.0.dylib
 leetcode_tests: CMakeFiles/leetcode_tests.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Linking CXX executable leetcode_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Linking CXX executable leetcode_tests"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/leetcode_tests.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

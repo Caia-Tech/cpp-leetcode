@@ -37,6 +37,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_maximum_depth_binary_tree.cpp.o.d"
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_minimum_depth_binary_tree.cpp.o"
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_minimum_depth_binary_tree.cpp.o.d"
+  "CMakeFiles/leetcode_tests.dir/tests/easy/test_number_of_1_bits.cpp.o"
+  "CMakeFiles/leetcode_tests.dir/tests/easy/test_number_of_1_bits.cpp.o.d"
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_palindrome_linked_list.cpp.o"
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_palindrome_linked_list.cpp.o.d"
   "CMakeFiles/leetcode_tests.dir/tests/easy/test_pascals_triangle.cpp.o"

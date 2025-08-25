@@ -728,6 +728,30 @@ src/easy/minimum_depth_binary_tree.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/minimum_depth_binary_tree.cpp.s
 .PHONY : src/easy/minimum_depth_binary_tree.cpp.s
 
+src/easy/number_of_1_bits.o: src/easy/number_of_1_bits.cpp.o
+.PHONY : src/easy/number_of_1_bits.o
+
+# target to build an object file
+src/easy/number_of_1_bits.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/number_of_1_bits.cpp.o
+.PHONY : src/easy/number_of_1_bits.cpp.o
+
+src/easy/number_of_1_bits.i: src/easy/number_of_1_bits.cpp.i
+.PHONY : src/easy/number_of_1_bits.i
+
+# target to preprocess a source file
+src/easy/number_of_1_bits.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/number_of_1_bits.cpp.i
+.PHONY : src/easy/number_of_1_bits.cpp.i
+
+src/easy/number_of_1_bits.s: src/easy/number_of_1_bits.cpp.s
+.PHONY : src/easy/number_of_1_bits.s
+
+# target to generate assembly for a file
+src/easy/number_of_1_bits.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_lib.dir/build.make CMakeFiles/leetcode_lib.dir/src/easy/number_of_1_bits.cpp.s
+.PHONY : src/easy/number_of_1_bits.cpp.s
+
 src/easy/palindrome_linked_list.o: src/easy/palindrome_linked_list.cpp.o
 .PHONY : src/easy/palindrome_linked_list.o
 
@@ -2768,6 +2792,30 @@ tests/easy/test_minimum_depth_binary_tree.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_minimum_depth_binary_tree.cpp.s
 .PHONY : tests/easy/test_minimum_depth_binary_tree.cpp.s
 
+tests/easy/test_number_of_1_bits.o: tests/easy/test_number_of_1_bits.cpp.o
+.PHONY : tests/easy/test_number_of_1_bits.o
+
+# target to build an object file
+tests/easy/test_number_of_1_bits.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_number_of_1_bits.cpp.o
+.PHONY : tests/easy/test_number_of_1_bits.cpp.o
+
+tests/easy/test_number_of_1_bits.i: tests/easy/test_number_of_1_bits.cpp.i
+.PHONY : tests/easy/test_number_of_1_bits.i
+
+# target to preprocess a source file
+tests/easy/test_number_of_1_bits.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_number_of_1_bits.cpp.i
+.PHONY : tests/easy/test_number_of_1_bits.cpp.i
+
+tests/easy/test_number_of_1_bits.s: tests/easy/test_number_of_1_bits.cpp.s
+.PHONY : tests/easy/test_number_of_1_bits.s
+
+# target to generate assembly for a file
+tests/easy/test_number_of_1_bits.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/leetcode_tests.dir/build.make CMakeFiles/leetcode_tests.dir/tests/easy/test_number_of_1_bits.cpp.s
+.PHONY : tests/easy/test_number_of_1_bits.cpp.s
+
 tests/easy/test_palindrome_linked_list.o: tests/easy/test_palindrome_linked_list.cpp.o
 .PHONY : tests/easy/test_palindrome_linked_list.o
 
@@ -4099,6 +4147,9 @@ help:
 	@echo "... src/easy/minimum_depth_binary_tree.o"
 	@echo "... src/easy/minimum_depth_binary_tree.i"
 	@echo "... src/easy/minimum_depth_binary_tree.s"
+	@echo "... src/easy/number_of_1_bits.o"
+	@echo "... src/easy/number_of_1_bits.i"
+	@echo "... src/easy/number_of_1_bits.s"
 	@echo "... src/easy/palindrome_linked_list.o"
 	@echo "... src/easy/palindrome_linked_list.i"
 	@echo "... src/easy/palindrome_linked_list.s"
@@ -4354,6 +4405,9 @@ help:
 	@echo "... tests/easy/test_minimum_depth_binary_tree.o"
 	@echo "... tests/easy/test_minimum_depth_binary_tree.i"
 	@echo "... tests/easy/test_minimum_depth_binary_tree.s"
+	@echo "... tests/easy/test_number_of_1_bits.o"
+	@echo "... tests/easy/test_number_of_1_bits.i"
+	@echo "... tests/easy/test_number_of_1_bits.s"
 	@echo "... tests/easy/test_palindrome_linked_list.o"
 	@echo "... tests/easy/test_palindrome_linked_list.i"
 	@echo "... tests/easy/test_palindrome_linked_list.s"
