@@ -156,10 +156,38 @@ CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_inorder_traversal.cpp.s: cmake_
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_inorder_traversal.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/binary_tree_inorder_traversal.cpp -o CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_inorder_traversal.cpp.s
 
+CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_postorder_traversal.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
+CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_postorder_traversal.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/binary_tree_postorder_traversal.cpp
+CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_postorder_traversal.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_postorder_traversal.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_postorder_traversal.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_postorder_traversal.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_postorder_traversal.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/binary_tree_postorder_traversal.cpp
+
+CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_postorder_traversal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_postorder_traversal.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/binary_tree_postorder_traversal.cpp > CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_postorder_traversal.cpp.i
+
+CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_postorder_traversal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_postorder_traversal.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/binary_tree_postorder_traversal.cpp -o CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_postorder_traversal.cpp.s
+
+CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_preorder_traversal.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
+CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_preorder_traversal.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/binary_tree_preorder_traversal.cpp
+CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_preorder_traversal.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_preorder_traversal.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_preorder_traversal.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_preorder_traversal.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_preorder_traversal.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/binary_tree_preorder_traversal.cpp
+
+CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_preorder_traversal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_preorder_traversal.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/binary_tree_preorder_traversal.cpp > CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_preorder_traversal.cpp.i
+
+CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_preorder_traversal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_preorder_traversal.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/binary_tree_preorder_traversal.cpp -o CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_preorder_traversal.cpp.s
+
 CMakeFiles/leetcode_lib.dir/src/easy/climbing_stairs.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/climbing_stairs.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/climbing_stairs.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/climbing_stairs.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/climbing_stairs.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/climbing_stairs.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/climbing_stairs.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/climbing_stairs.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/climbing_stairs.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/climbing_stairs.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/climbing_stairs.cpp.i: cmake_force
@@ -170,10 +198,24 @@ CMakeFiles/leetcode_lib.dir/src/easy/climbing_stairs.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode_lib.dir/src/easy/climbing_stairs.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/climbing_stairs.cpp -o CMakeFiles/leetcode_lib.dir/src/easy/climbing_stairs.cpp.s
 
+CMakeFiles/leetcode_lib.dir/src/easy/combine_two_tables.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
+CMakeFiles/leetcode_lib.dir/src/easy/combine_two_tables.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/combine_two_tables.cpp
+CMakeFiles/leetcode_lib.dir/src/easy/combine_two_tables.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/combine_two_tables.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/combine_two_tables.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/combine_two_tables.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/combine_two_tables.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/combine_two_tables.cpp
+
+CMakeFiles/leetcode_lib.dir/src/easy/combine_two_tables.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/leetcode_lib.dir/src/easy/combine_two_tables.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/combine_two_tables.cpp > CMakeFiles/leetcode_lib.dir/src/easy/combine_two_tables.cpp.i
+
+CMakeFiles/leetcode_lib.dir/src/easy/combine_two_tables.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode_lib.dir/src/easy/combine_two_tables.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/combine_two_tables.cpp -o CMakeFiles/leetcode_lib.dir/src/easy/combine_two_tables.cpp.s
+
 CMakeFiles/leetcode_lib.dir/src/easy/convert_sorted_array_to_bst.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/convert_sorted_array_to_bst.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/convert_sorted_array_to_bst.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/convert_sorted_array_to_bst.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/convert_sorted_array_to_bst.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/convert_sorted_array_to_bst.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/convert_sorted_array_to_bst.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/convert_sorted_array_to_bst.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/convert_sorted_array_to_bst.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/convert_sorted_array_to_bst.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/convert_sorted_array_to_bst.cpp.i: cmake_force
@@ -184,10 +226,24 @@ CMakeFiles/leetcode_lib.dir/src/easy/convert_sorted_array_to_bst.cpp.s: cmake_fo
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode_lib.dir/src/easy/convert_sorted_array_to_bst.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/convert_sorted_array_to_bst.cpp -o CMakeFiles/leetcode_lib.dir/src/easy/convert_sorted_array_to_bst.cpp.s
 
+CMakeFiles/leetcode_lib.dir/src/easy/count_primes.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
+CMakeFiles/leetcode_lib.dir/src/easy/count_primes.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/count_primes.cpp
+CMakeFiles/leetcode_lib.dir/src/easy/count_primes.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/count_primes.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/count_primes.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/count_primes.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/count_primes.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/count_primes.cpp
+
+CMakeFiles/leetcode_lib.dir/src/easy/count_primes.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/leetcode_lib.dir/src/easy/count_primes.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/count_primes.cpp > CMakeFiles/leetcode_lib.dir/src/easy/count_primes.cpp.i
+
+CMakeFiles/leetcode_lib.dir/src/easy/count_primes.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode_lib.dir/src/easy/count_primes.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/count_primes.cpp -o CMakeFiles/leetcode_lib.dir/src/easy/count_primes.cpp.s
+
 CMakeFiles/leetcode_lib.dir/src/easy/delete_node_in_linked_list.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/delete_node_in_linked_list.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/delete_node_in_linked_list.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/delete_node_in_linked_list.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/delete_node_in_linked_list.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/delete_node_in_linked_list.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/delete_node_in_linked_list.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/delete_node_in_linked_list.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/delete_node_in_linked_list.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/delete_node_in_linked_list.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/delete_node_in_linked_list.cpp.i: cmake_force
@@ -201,7 +257,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/delete_node_in_linked_list.cpp.s: cmake_for
 CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_number.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_number.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/excel_sheet_column_number.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_number.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_number.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_number.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_number.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_number.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_number.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/excel_sheet_column_number.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_number.cpp.i: cmake_force
@@ -212,10 +268,24 @@ CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_number.cpp.s: cmake_forc
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_number.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/excel_sheet_column_number.cpp -o CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_number.cpp.s
 
+CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_title.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
+CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_title.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/excel_sheet_column_title.cpp
+CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_title.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_title.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_title.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_title.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_title.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/excel_sheet_column_title.cpp
+
+CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_title.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_title.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/excel_sheet_column_title.cpp > CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_title.cpp.i
+
+CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_title.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_title.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/excel_sheet_column_title.cpp -o CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_title.cpp.s
+
 CMakeFiles/leetcode_lib.dir/src/easy/find_index_of_first_occurrence.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/find_index_of_first_occurrence.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/find_index_of_first_occurrence.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/find_index_of_first_occurrence.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/find_index_of_first_occurrence.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/find_index_of_first_occurrence.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/find_index_of_first_occurrence.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/find_index_of_first_occurrence.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/find_index_of_first_occurrence.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/find_index_of_first_occurrence.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/find_index_of_first_occurrence.cpp.i: cmake_force
@@ -229,7 +299,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/find_index_of_first_occurrence.cpp.s: cmake
 CMakeFiles/leetcode_lib.dir/src/easy/first_bad_version.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/first_bad_version.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/first_bad_version.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/first_bad_version.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/first_bad_version.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/first_bad_version.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/first_bad_version.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/first_bad_version.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/first_bad_version.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/first_bad_version.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/first_bad_version.cpp.i: cmake_force
@@ -240,10 +310,24 @@ CMakeFiles/leetcode_lib.dir/src/easy/first_bad_version.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode_lib.dir/src/easy/first_bad_version.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/first_bad_version.cpp -o CMakeFiles/leetcode_lib.dir/src/easy/first_bad_version.cpp.s
 
+CMakeFiles/leetcode_lib.dir/src/easy/happy_number.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
+CMakeFiles/leetcode_lib.dir/src/easy/happy_number.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/happy_number.cpp
+CMakeFiles/leetcode_lib.dir/src/easy/happy_number.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/happy_number.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/happy_number.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/happy_number.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/happy_number.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/happy_number.cpp
+
+CMakeFiles/leetcode_lib.dir/src/easy/happy_number.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/leetcode_lib.dir/src/easy/happy_number.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/happy_number.cpp > CMakeFiles/leetcode_lib.dir/src/easy/happy_number.cpp.i
+
+CMakeFiles/leetcode_lib.dir/src/easy/happy_number.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode_lib.dir/src/easy/happy_number.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/happy_number.cpp -o CMakeFiles/leetcode_lib.dir/src/easy/happy_number.cpp.s
+
 CMakeFiles/leetcode_lib.dir/src/easy/house_robber.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/house_robber.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/house_robber.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/house_robber.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/house_robber.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/house_robber.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/house_robber.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/house_robber.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/house_robber.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/house_robber.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/house_robber.cpp.i: cmake_force
@@ -257,7 +341,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/house_robber.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/intersection_of_two_linked_lists.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/intersection_of_two_linked_lists.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/intersection_of_two_linked_lists.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/intersection_of_two_linked_lists.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/intersection_of_two_linked_lists.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/intersection_of_two_linked_lists.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/intersection_of_two_linked_lists.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/intersection_of_two_linked_lists.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/intersection_of_two_linked_lists.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/intersection_of_two_linked_lists.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/intersection_of_two_linked_lists.cpp.i: cmake_force
@@ -271,7 +355,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/intersection_of_two_linked_lists.cpp.s: cma
 CMakeFiles/leetcode_lib.dir/src/easy/invert_binary_tree.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/invert_binary_tree.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/invert_binary_tree.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/invert_binary_tree.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/invert_binary_tree.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/invert_binary_tree.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/invert_binary_tree.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/invert_binary_tree.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/invert_binary_tree.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/invert_binary_tree.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/invert_binary_tree.cpp.i: cmake_force
@@ -285,7 +369,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/invert_binary_tree.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/length_of_last_word.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/length_of_last_word.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/length_of_last_word.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/length_of_last_word.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/length_of_last_word.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/length_of_last_word.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/length_of_last_word.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/length_of_last_word.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/length_of_last_word.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/length_of_last_word.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/length_of_last_word.cpp.i: cmake_force
@@ -299,7 +383,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/length_of_last_word.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/linked_list_cycle.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/linked_list_cycle.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/linked_list_cycle.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/linked_list_cycle.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/linked_list_cycle.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/linked_list_cycle.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/linked_list_cycle.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/linked_list_cycle.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/linked_list_cycle.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/linked_list_cycle.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/linked_list_cycle.cpp.i: cmake_force
@@ -313,7 +397,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/linked_list_cycle.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/longest_common_prefix.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/longest_common_prefix.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/longest_common_prefix.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/longest_common_prefix.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/longest_common_prefix.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/longest_common_prefix.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/longest_common_prefix.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/longest_common_prefix.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/longest_common_prefix.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/longest_common_prefix.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/longest_common_prefix.cpp.i: cmake_force
@@ -327,7 +411,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/longest_common_prefix.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/majority_element.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/majority_element.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/majority_element.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/majority_element.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/majority_element.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/majority_element.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/majority_element.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/majority_element.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/majority_element.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/majority_element.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/majority_element.cpp.i: cmake_force
@@ -341,7 +425,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/majority_element.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/maximum_depth_binary_tree.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/maximum_depth_binary_tree.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/maximum_depth_binary_tree.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/maximum_depth_binary_tree.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/maximum_depth_binary_tree.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/maximum_depth_binary_tree.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/maximum_depth_binary_tree.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/maximum_depth_binary_tree.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/maximum_depth_binary_tree.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/maximum_depth_binary_tree.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/maximum_depth_binary_tree.cpp.i: cmake_force
@@ -355,7 +439,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/maximum_depth_binary_tree.cpp.s: cmake_forc
 CMakeFiles/leetcode_lib.dir/src/easy/maximum_subarray.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/maximum_subarray.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/maximum_subarray.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/maximum_subarray.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/maximum_subarray.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/maximum_subarray.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/maximum_subarray.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/maximum_subarray.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/maximum_subarray.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/maximum_subarray.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/maximum_subarray.cpp.i: cmake_force
@@ -369,7 +453,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/maximum_subarray.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/merge_sorted_array.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/merge_sorted_array.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/merge_sorted_array.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/merge_sorted_array.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/merge_sorted_array.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/merge_sorted_array.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/merge_sorted_array.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/merge_sorted_array.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/merge_sorted_array.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/merge_sorted_array.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/merge_sorted_array.cpp.i: cmake_force
@@ -383,7 +467,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/merge_sorted_array.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/merge_two_sorted_lists.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/merge_two_sorted_lists.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/merge_two_sorted_lists.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/merge_two_sorted_lists.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/merge_two_sorted_lists.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/merge_two_sorted_lists.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/merge_two_sorted_lists.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/merge_two_sorted_lists.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/merge_two_sorted_lists.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/merge_two_sorted_lists.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/merge_two_sorted_lists.cpp.i: cmake_force
@@ -397,7 +481,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/merge_two_sorted_lists.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/minimum_depth_binary_tree.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/minimum_depth_binary_tree.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/minimum_depth_binary_tree.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/minimum_depth_binary_tree.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/minimum_depth_binary_tree.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/minimum_depth_binary_tree.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/minimum_depth_binary_tree.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/minimum_depth_binary_tree.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/minimum_depth_binary_tree.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/minimum_depth_binary_tree.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/minimum_depth_binary_tree.cpp.i: cmake_force
@@ -411,7 +495,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/minimum_depth_binary_tree.cpp.s: cmake_forc
 CMakeFiles/leetcode_lib.dir/src/easy/number_of_1_bits.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/number_of_1_bits.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/number_of_1_bits.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/number_of_1_bits.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/number_of_1_bits.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/number_of_1_bits.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/number_of_1_bits.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/number_of_1_bits.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/number_of_1_bits.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/number_of_1_bits.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/number_of_1_bits.cpp.i: cmake_force
@@ -425,7 +509,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/number_of_1_bits.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/palindrome_linked_list.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/palindrome_linked_list.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/palindrome_linked_list.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/palindrome_linked_list.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/palindrome_linked_list.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/palindrome_linked_list.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/palindrome_linked_list.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/palindrome_linked_list.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/palindrome_linked_list.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/palindrome_linked_list.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/palindrome_linked_list.cpp.i: cmake_force
@@ -439,7 +523,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/palindrome_linked_list.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/palindrome_number.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/palindrome_number.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/palindrome_number.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/palindrome_number.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/palindrome_number.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/palindrome_number.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/palindrome_number.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/palindrome_number.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/palindrome_number.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/palindrome_number.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/palindrome_number.cpp.i: cmake_force
@@ -453,7 +537,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/palindrome_number.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/pascals_triangle.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/pascals_triangle.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle.cpp.i: cmake_force
@@ -464,10 +548,24 @@ CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/pascals_triangle.cpp -o CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle.cpp.s
 
+CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle_ii.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
+CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle_ii.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/pascals_triangle_ii.cpp
+CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle_ii.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle_ii.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle_ii.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle_ii.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle_ii.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/pascals_triangle_ii.cpp
+
+CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle_ii.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle_ii.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/pascals_triangle_ii.cpp > CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle_ii.cpp.i
+
+CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle_ii.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle_ii.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/pascals_triangle_ii.cpp -o CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle_ii.cpp.s
+
 CMakeFiles/leetcode_lib.dir/src/easy/path_sum.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/path_sum.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/path_sum.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/path_sum.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/path_sum.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/path_sum.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/path_sum.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/path_sum.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/path_sum.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/path_sum.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/path_sum.cpp.i: cmake_force
@@ -481,7 +579,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/path_sum.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/plus_one.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/plus_one.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/plus_one.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/plus_one.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/plus_one.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/plus_one.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/plus_one.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/plus_one.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/plus_one.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/plus_one.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/plus_one.cpp.i: cmake_force
@@ -492,10 +590,24 @@ CMakeFiles/leetcode_lib.dir/src/easy/plus_one.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode_lib.dir/src/easy/plus_one.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/plus_one.cpp -o CMakeFiles/leetcode_lib.dir/src/easy/plus_one.cpp.s
 
+CMakeFiles/leetcode_lib.dir/src/easy/power_of_two.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
+CMakeFiles/leetcode_lib.dir/src/easy/power_of_two.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/power_of_two.cpp
+CMakeFiles/leetcode_lib.dir/src/easy/power_of_two.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/power_of_two.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/power_of_two.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/power_of_two.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/power_of_two.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/power_of_two.cpp
+
+CMakeFiles/leetcode_lib.dir/src/easy/power_of_two.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/leetcode_lib.dir/src/easy/power_of_two.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/power_of_two.cpp > CMakeFiles/leetcode_lib.dir/src/easy/power_of_two.cpp.i
+
+CMakeFiles/leetcode_lib.dir/src/easy/power_of_two.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/leetcode_lib.dir/src/easy/power_of_two.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/power_of_two.cpp -o CMakeFiles/leetcode_lib.dir/src/easy/power_of_two.cpp.s
+
 CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_array.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_array.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/remove_duplicates_from_sorted_array.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_array.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_array.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_array.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_array.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_array.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_array.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/remove_duplicates_from_sorted_array.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_array.cpp.i: cmake_force
@@ -509,7 +621,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_array.cpp.s: 
 CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_list.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_list.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/remove_duplicates_from_sorted_list.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_list.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_list.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_list.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_list.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_list.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_list.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/remove_duplicates_from_sorted_list.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_list.cpp.i: cmake_force
@@ -523,7 +635,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_list.cpp.s: c
 CMakeFiles/leetcode_lib.dir/src/easy/remove_element.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/remove_element.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/remove_element.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/remove_element.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/remove_element.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/remove_element.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/remove_element.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/remove_element.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/remove_element.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/remove_element.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/remove_element.cpp.i: cmake_force
@@ -537,7 +649,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/remove_element.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/remove_linked_list_elements.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/remove_linked_list_elements.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/remove_linked_list_elements.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/remove_linked_list_elements.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/remove_linked_list_elements.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/remove_linked_list_elements.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/remove_linked_list_elements.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/remove_linked_list_elements.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/remove_linked_list_elements.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/remove_linked_list_elements.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/remove_linked_list_elements.cpp.i: cmake_force
@@ -551,7 +663,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/remove_linked_list_elements.cpp.s: cmake_fo
 CMakeFiles/leetcode_lib.dir/src/easy/reverse_bits.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/reverse_bits.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/reverse_bits.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/reverse_bits.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/reverse_bits.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/reverse_bits.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/reverse_bits.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/reverse_bits.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/reverse_bits.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/reverse_bits.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/reverse_bits.cpp.i: cmake_force
@@ -565,7 +677,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/reverse_bits.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/reverse_integer.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/reverse_integer.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/reverse_integer.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/reverse_integer.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/reverse_integer.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/reverse_integer.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/reverse_integer.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/reverse_integer.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/reverse_integer.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/reverse_integer.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/reverse_integer.cpp.i: cmake_force
@@ -579,7 +691,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/reverse_integer.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/reverse_linked_list.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/reverse_linked_list.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/reverse_linked_list.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/reverse_linked_list.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/reverse_linked_list.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/reverse_linked_list.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/reverse_linked_list.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/reverse_linked_list.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/reverse_linked_list.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/reverse_linked_list.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/reverse_linked_list.cpp.i: cmake_force
@@ -593,7 +705,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/reverse_linked_list.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/roman_to_integer.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/roman_to_integer.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/roman_to_integer.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/roman_to_integer.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/roman_to_integer.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/roman_to_integer.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/roman_to_integer.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/roman_to_integer.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/roman_to_integer.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/roman_to_integer.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/roman_to_integer.cpp.i: cmake_force
@@ -607,7 +719,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/roman_to_integer.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/same_tree.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/same_tree.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/same_tree.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/same_tree.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/same_tree.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/same_tree.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/same_tree.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/same_tree.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/same_tree.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/same_tree.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/same_tree.cpp.i: cmake_force
@@ -621,7 +733,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/same_tree.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/search_insert_position.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/search_insert_position.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/search_insert_position.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/search_insert_position.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/search_insert_position.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/search_insert_position.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/search_insert_position.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/search_insert_position.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/search_insert_position.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/search_insert_position.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/search_insert_position.cpp.i: cmake_force
@@ -635,7 +747,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/search_insert_position.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/single_number.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/single_number.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/single_number.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/single_number.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/single_number.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/single_number.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/single_number.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/single_number.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/single_number.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/single_number.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/single_number.cpp.i: cmake_force
@@ -649,7 +761,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/single_number.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/sqrt_x.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/sqrt_x.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/sqrt_x.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/sqrt_x.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/sqrt_x.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/sqrt_x.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/sqrt_x.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/sqrt_x.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/sqrt_x.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/sqrt_x.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/sqrt_x.cpp.i: cmake_force
@@ -663,7 +775,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/sqrt_x.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/symmetric_tree.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/symmetric_tree.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/symmetric_tree.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/symmetric_tree.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/symmetric_tree.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/symmetric_tree.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/symmetric_tree.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/symmetric_tree.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/symmetric_tree.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/symmetric_tree.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/symmetric_tree.cpp.i: cmake_force
@@ -677,7 +789,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/symmetric_tree.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/two_sum.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/two_sum.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/two_sum.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/two_sum.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/two_sum.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/two_sum.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/two_sum.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/two_sum.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/two_sum.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/two_sum.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/two_sum.cpp.i: cmake_force
@@ -691,7 +803,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/two_sum.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/valid_anagram.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/valid_anagram.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/valid_anagram.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/valid_anagram.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/valid_anagram.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/valid_anagram.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/valid_anagram.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/valid_anagram.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/valid_anagram.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/valid_anagram.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/valid_anagram.cpp.i: cmake_force
@@ -705,7 +817,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/valid_anagram.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/valid_palindrome.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/valid_palindrome.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/valid_palindrome.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/valid_palindrome.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/valid_palindrome.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/valid_palindrome.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/valid_palindrome.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/valid_palindrome.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/valid_palindrome.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/valid_palindrome.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/valid_palindrome.cpp.i: cmake_force
@@ -719,7 +831,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/valid_palindrome.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/easy/valid_parentheses.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/easy/valid_parentheses.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/valid_parentheses.cpp
 CMakeFiles/leetcode_lib.dir/src/easy/valid_parentheses.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/valid_parentheses.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/leetcode_lib.dir/src/easy/valid_parentheses.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/easy/valid_parentheses.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/easy/valid_parentheses.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/easy/valid_parentheses.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/easy/valid_parentheses.cpp
 
 CMakeFiles/leetcode_lib.dir/src/easy/valid_parentheses.cpp.i: cmake_force
@@ -733,7 +845,7 @@ CMakeFiles/leetcode_lib.dir/src/easy/valid_parentheses.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/hard/edit_distance.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/hard/edit_distance.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/hard/edit_distance.cpp
 CMakeFiles/leetcode_lib.dir/src/hard/edit_distance.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/leetcode_lib.dir/src/hard/edit_distance.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/leetcode_lib.dir/src/hard/edit_distance.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/hard/edit_distance.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/hard/edit_distance.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/hard/edit_distance.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/hard/edit_distance.cpp
 
 CMakeFiles/leetcode_lib.dir/src/hard/edit_distance.cpp.i: cmake_force
@@ -747,7 +859,7 @@ CMakeFiles/leetcode_lib.dir/src/hard/edit_distance.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/hard/first_missing_positive.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/hard/first_missing_positive.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/hard/first_missing_positive.cpp
 CMakeFiles/leetcode_lib.dir/src/hard/first_missing_positive.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/leetcode_lib.dir/src/hard/first_missing_positive.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/leetcode_lib.dir/src/hard/first_missing_positive.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/hard/first_missing_positive.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/hard/first_missing_positive.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/hard/first_missing_positive.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/hard/first_missing_positive.cpp
 
 CMakeFiles/leetcode_lib.dir/src/hard/first_missing_positive.cpp.i: cmake_force
@@ -761,7 +873,7 @@ CMakeFiles/leetcode_lib.dir/src/hard/first_missing_positive.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/hard/median_of_two_sorted_arrays.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/hard/median_of_two_sorted_arrays.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/hard/median_of_two_sorted_arrays.cpp
 CMakeFiles/leetcode_lib.dir/src/hard/median_of_two_sorted_arrays.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/leetcode_lib.dir/src/hard/median_of_two_sorted_arrays.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/leetcode_lib.dir/src/hard/median_of_two_sorted_arrays.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/hard/median_of_two_sorted_arrays.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/hard/median_of_two_sorted_arrays.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/hard/median_of_two_sorted_arrays.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/hard/median_of_two_sorted_arrays.cpp
 
 CMakeFiles/leetcode_lib.dir/src/hard/median_of_two_sorted_arrays.cpp.i: cmake_force
@@ -775,7 +887,7 @@ CMakeFiles/leetcode_lib.dir/src/hard/median_of_two_sorted_arrays.cpp.s: cmake_fo
 CMakeFiles/leetcode_lib.dir/src/hard/merge_k_sorted_lists.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/hard/merge_k_sorted_lists.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/hard/merge_k_sorted_lists.cpp
 CMakeFiles/leetcode_lib.dir/src/hard/merge_k_sorted_lists.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/leetcode_lib.dir/src/hard/merge_k_sorted_lists.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/leetcode_lib.dir/src/hard/merge_k_sorted_lists.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/hard/merge_k_sorted_lists.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/hard/merge_k_sorted_lists.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/hard/merge_k_sorted_lists.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/hard/merge_k_sorted_lists.cpp
 
 CMakeFiles/leetcode_lib.dir/src/hard/merge_k_sorted_lists.cpp.i: cmake_force
@@ -789,7 +901,7 @@ CMakeFiles/leetcode_lib.dir/src/hard/merge_k_sorted_lists.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/hard/minimum_window_substring.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/hard/minimum_window_substring.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/hard/minimum_window_substring.cpp
 CMakeFiles/leetcode_lib.dir/src/hard/minimum_window_substring.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/leetcode_lib.dir/src/hard/minimum_window_substring.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/leetcode_lib.dir/src/hard/minimum_window_substring.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/hard/minimum_window_substring.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/hard/minimum_window_substring.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/hard/minimum_window_substring.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/hard/minimum_window_substring.cpp
 
 CMakeFiles/leetcode_lib.dir/src/hard/minimum_window_substring.cpp.i: cmake_force
@@ -803,7 +915,7 @@ CMakeFiles/leetcode_lib.dir/src/hard/minimum_window_substring.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/hard/n_queens.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/hard/n_queens.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/hard/n_queens.cpp
 CMakeFiles/leetcode_lib.dir/src/hard/n_queens.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/leetcode_lib.dir/src/hard/n_queens.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/leetcode_lib.dir/src/hard/n_queens.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/hard/n_queens.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/hard/n_queens.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/hard/n_queens.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/hard/n_queens.cpp
 
 CMakeFiles/leetcode_lib.dir/src/hard/n_queens.cpp.i: cmake_force
@@ -817,7 +929,7 @@ CMakeFiles/leetcode_lib.dir/src/hard/n_queens.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/hard/serialize_deserialize_binary_tree.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/hard/serialize_deserialize_binary_tree.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/hard/serialize_deserialize_binary_tree.cpp
 CMakeFiles/leetcode_lib.dir/src/hard/serialize_deserialize_binary_tree.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/leetcode_lib.dir/src/hard/serialize_deserialize_binary_tree.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/leetcode_lib.dir/src/hard/serialize_deserialize_binary_tree.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/hard/serialize_deserialize_binary_tree.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/hard/serialize_deserialize_binary_tree.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/hard/serialize_deserialize_binary_tree.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/hard/serialize_deserialize_binary_tree.cpp
 
 CMakeFiles/leetcode_lib.dir/src/hard/serialize_deserialize_binary_tree.cpp.i: cmake_force
@@ -831,7 +943,7 @@ CMakeFiles/leetcode_lib.dir/src/hard/serialize_deserialize_binary_tree.cpp.s: cm
 CMakeFiles/leetcode_lib.dir/src/hard/sliding_window_maximum.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/hard/sliding_window_maximum.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/hard/sliding_window_maximum.cpp
 CMakeFiles/leetcode_lib.dir/src/hard/sliding_window_maximum.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/leetcode_lib.dir/src/hard/sliding_window_maximum.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/leetcode_lib.dir/src/hard/sliding_window_maximum.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/hard/sliding_window_maximum.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/hard/sliding_window_maximum.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/hard/sliding_window_maximum.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/hard/sliding_window_maximum.cpp
 
 CMakeFiles/leetcode_lib.dir/src/hard/sliding_window_maximum.cpp.i: cmake_force
@@ -845,7 +957,7 @@ CMakeFiles/leetcode_lib.dir/src/hard/sliding_window_maximum.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/hard/trapping_rain_water.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/hard/trapping_rain_water.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/hard/trapping_rain_water.cpp
 CMakeFiles/leetcode_lib.dir/src/hard/trapping_rain_water.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/leetcode_lib.dir/src/hard/trapping_rain_water.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/leetcode_lib.dir/src/hard/trapping_rain_water.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/hard/trapping_rain_water.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/hard/trapping_rain_water.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/hard/trapping_rain_water.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/hard/trapping_rain_water.cpp
 
 CMakeFiles/leetcode_lib.dir/src/hard/trapping_rain_water.cpp.i: cmake_force
@@ -859,7 +971,7 @@ CMakeFiles/leetcode_lib.dir/src/hard/trapping_rain_water.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/add_two_numbers.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/add_two_numbers.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/add_two_numbers.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/add_two_numbers.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/add_two_numbers.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/add_two_numbers.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/add_two_numbers.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/add_two_numbers.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/add_two_numbers.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/add_two_numbers.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/add_two_numbers.cpp.i: cmake_force
@@ -873,7 +985,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/add_two_numbers.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/binary_tree_level_order_traversal.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/binary_tree_level_order_traversal.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/binary_tree_level_order_traversal.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/binary_tree_level_order_traversal.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/binary_tree_level_order_traversal.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/binary_tree_level_order_traversal.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/binary_tree_level_order_traversal.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/binary_tree_level_order_traversal.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/binary_tree_level_order_traversal.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/binary_tree_level_order_traversal.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/binary_tree_level_order_traversal.cpp.i: cmake_force
@@ -887,7 +999,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/binary_tree_level_order_traversal.cpp.s: 
 CMakeFiles/leetcode_lib.dir/src/medium/clone_graph.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/clone_graph.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/clone_graph.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/clone_graph.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/clone_graph.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/clone_graph.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/clone_graph.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/clone_graph.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/clone_graph.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/clone_graph.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/clone_graph.cpp.i: cmake_force
@@ -901,7 +1013,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/clone_graph.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/coin_change.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/coin_change.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/coin_change.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/coin_change.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/coin_change.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/coin_change.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/coin_change.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/coin_change.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/coin_change.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/coin_change.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/coin_change.cpp.i: cmake_force
@@ -915,7 +1027,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/coin_change.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/combination_sum.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/combination_sum.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/combination_sum.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/combination_sum.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/combination_sum.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/combination_sum.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/combination_sum.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/combination_sum.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/combination_sum.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/combination_sum.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/combination_sum.cpp.i: cmake_force
@@ -929,7 +1041,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/combination_sum.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/container_with_most_water.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/container_with_most_water.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/container_with_most_water.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/container_with_most_water.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/container_with_most_water.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/container_with_most_water.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/container_with_most_water.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/container_with_most_water.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/container_with_most_water.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/container_with_most_water.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/container_with_most_water.cpp.i: cmake_force
@@ -943,7 +1055,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/container_with_most_water.cpp.s: cmake_fo
 CMakeFiles/leetcode_lib.dir/src/medium/course_schedule.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/course_schedule.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/course_schedule.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/course_schedule.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/course_schedule.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/course_schedule.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/course_schedule.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/course_schedule.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/course_schedule.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/course_schedule.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/course_schedule.cpp.i: cmake_force
@@ -957,7 +1069,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/course_schedule.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/four_sum.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/four_sum.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/four_sum.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/four_sum.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/four_sum.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/four_sum.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/four_sum.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/four_sum.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/four_sum.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/four_sum.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/four_sum.cpp.i: cmake_force
@@ -971,7 +1083,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/four_sum.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/generate_parentheses.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/generate_parentheses.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/generate_parentheses.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/generate_parentheses.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/generate_parentheses.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/generate_parentheses.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/generate_parentheses.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/generate_parentheses.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/generate_parentheses.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/generate_parentheses.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/generate_parentheses.cpp.i: cmake_force
@@ -985,7 +1097,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/generate_parentheses.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/group_anagrams.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/group_anagrams.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/group_anagrams.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/group_anagrams.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/group_anagrams.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/group_anagrams.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/group_anagrams.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/group_anagrams.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/group_anagrams.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/group_anagrams.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/group_anagrams.cpp.i: cmake_force
@@ -999,7 +1111,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/group_anagrams.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/integer_to_roman.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/integer_to_roman.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/integer_to_roman.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/integer_to_roman.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/integer_to_roman.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/integer_to_roman.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/integer_to_roman.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/integer_to_roman.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/integer_to_roman.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/integer_to_roman.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/integer_to_roman.cpp.i: cmake_force
@@ -1013,7 +1125,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/integer_to_roman.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/kth_largest_element.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/kth_largest_element.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/kth_largest_element.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/kth_largest_element.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/kth_largest_element.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/kth_largest_element.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/kth_largest_element.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/kth_largest_element.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/kth_largest_element.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/kth_largest_element.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/kth_largest_element.cpp.i: cmake_force
@@ -1027,7 +1139,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/kth_largest_element.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/letter_combinations_of_phone_number.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/letter_combinations_of_phone_number.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/letter_combinations_of_phone_number.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/letter_combinations_of_phone_number.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/letter_combinations_of_phone_number.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/letter_combinations_of_phone_number.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/letter_combinations_of_phone_number.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/letter_combinations_of_phone_number.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/letter_combinations_of_phone_number.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/letter_combinations_of_phone_number.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/letter_combinations_of_phone_number.cpp.i: cmake_force
@@ -1041,7 +1153,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/letter_combinations_of_phone_number.cpp.s
 CMakeFiles/leetcode_lib.dir/src/medium/longest_increasing_subsequence.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/longest_increasing_subsequence.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/longest_increasing_subsequence.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/longest_increasing_subsequence.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/longest_increasing_subsequence.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/longest_increasing_subsequence.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/longest_increasing_subsequence.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/longest_increasing_subsequence.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/longest_increasing_subsequence.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/longest_increasing_subsequence.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/longest_increasing_subsequence.cpp.i: cmake_force
@@ -1055,7 +1167,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/longest_increasing_subsequence.cpp.s: cma
 CMakeFiles/leetcode_lib.dir/src/medium/longest_palindromic_substring.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/longest_palindromic_substring.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/longest_palindromic_substring.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/longest_palindromic_substring.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/longest_palindromic_substring.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/longest_palindromic_substring.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/longest_palindromic_substring.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/longest_palindromic_substring.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/longest_palindromic_substring.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/longest_palindromic_substring.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/longest_palindromic_substring.cpp.i: cmake_force
@@ -1069,7 +1181,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/longest_palindromic_substring.cpp.s: cmak
 CMakeFiles/leetcode_lib.dir/src/medium/longest_substring_without_repeating.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/longest_substring_without_repeating.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/longest_substring_without_repeating.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/longest_substring_without_repeating.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/longest_substring_without_repeating.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/longest_substring_without_repeating.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/longest_substring_without_repeating.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/longest_substring_without_repeating.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/longest_substring_without_repeating.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/longest_substring_without_repeating.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/longest_substring_without_repeating.cpp.i: cmake_force
@@ -1083,7 +1195,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/longest_substring_without_repeating.cpp.s
 CMakeFiles/leetcode_lib.dir/src/medium/lru_cache.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/lru_cache.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/lru_cache.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/lru_cache.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/lru_cache.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/lru_cache.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/lru_cache.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/lru_cache.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/lru_cache.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/lru_cache.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/lru_cache.cpp.i: cmake_force
@@ -1097,7 +1209,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/lru_cache.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/maximum_product_subarray.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/maximum_product_subarray.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/maximum_product_subarray.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/maximum_product_subarray.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/maximum_product_subarray.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/maximum_product_subarray.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/maximum_product_subarray.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/maximum_product_subarray.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/maximum_product_subarray.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/maximum_product_subarray.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/maximum_product_subarray.cpp.i: cmake_force
@@ -1111,7 +1223,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/maximum_product_subarray.cpp.s: cmake_for
 CMakeFiles/leetcode_lib.dir/src/medium/merge_intervals.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/merge_intervals.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/merge_intervals.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/merge_intervals.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/merge_intervals.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/merge_intervals.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/merge_intervals.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/merge_intervals.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/merge_intervals.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/merge_intervals.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/merge_intervals.cpp.i: cmake_force
@@ -1125,7 +1237,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/merge_intervals.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/next_permutation.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/next_permutation.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/next_permutation.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/next_permutation.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/next_permutation.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/next_permutation.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/next_permutation.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/next_permutation.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/next_permutation.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/next_permutation.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/next_permutation.cpp.i: cmake_force
@@ -1139,7 +1251,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/next_permutation.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/number_of_islands.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/number_of_islands.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/number_of_islands.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/number_of_islands.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/number_of_islands.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/number_of_islands.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/number_of_islands.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/number_of_islands.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/number_of_islands.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/number_of_islands.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/number_of_islands.cpp.i: cmake_force
@@ -1153,7 +1265,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/number_of_islands.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/palindromic_substrings.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/palindromic_substrings.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/palindromic_substrings.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/palindromic_substrings.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/palindromic_substrings.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/palindromic_substrings.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/palindromic_substrings.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/palindromic_substrings.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/palindromic_substrings.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/palindromic_substrings.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/palindromic_substrings.cpp.i: cmake_force
@@ -1167,7 +1279,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/palindromic_substrings.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/permutations.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/permutations.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/permutations.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/permutations.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/permutations.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/permutations.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/permutations.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/permutations.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/permutations.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/permutations.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/permutations.cpp.i: cmake_force
@@ -1181,7 +1293,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/permutations.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/product_except_self.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/product_except_self.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/product_except_self.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/product_except_self.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/product_except_self.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/product_except_self.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/product_except_self.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/product_except_self.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/product_except_self.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/product_except_self.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/product_except_self.cpp.i: cmake_force
@@ -1195,7 +1307,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/product_except_self.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/rotting_oranges.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/rotting_oranges.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/rotting_oranges.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/rotting_oranges.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/rotting_oranges.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/rotting_oranges.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/rotting_oranges.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/rotting_oranges.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/rotting_oranges.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/rotting_oranges.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/rotting_oranges.cpp.i: cmake_force
@@ -1209,7 +1321,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/rotting_oranges.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/search_in_rotated_sorted_array.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/search_in_rotated_sorted_array.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/search_in_rotated_sorted_array.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/search_in_rotated_sorted_array.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/search_in_rotated_sorted_array.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/search_in_rotated_sorted_array.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/search_in_rotated_sorted_array.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/search_in_rotated_sorted_array.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/search_in_rotated_sorted_array.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/search_in_rotated_sorted_array.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/search_in_rotated_sorted_array.cpp.i: cmake_force
@@ -1223,7 +1335,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/search_in_rotated_sorted_array.cpp.s: cma
 CMakeFiles/leetcode_lib.dir/src/medium/three_sum.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/three_sum.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/three_sum.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/three_sum.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/three_sum.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/three_sum.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/three_sum.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/three_sum.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/three_sum.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/three_sum.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/three_sum.cpp.i: cmake_force
@@ -1237,7 +1349,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/three_sum.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/top_k_frequent_elements.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/top_k_frequent_elements.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/top_k_frequent_elements.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/top_k_frequent_elements.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/top_k_frequent_elements.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/top_k_frequent_elements.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/top_k_frequent_elements.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/top_k_frequent_elements.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/top_k_frequent_elements.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/top_k_frequent_elements.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/top_k_frequent_elements.cpp.i: cmake_force
@@ -1251,7 +1363,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/top_k_frequent_elements.cpp.s: cmake_forc
 CMakeFiles/leetcode_lib.dir/src/medium/unique_paths.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/unique_paths.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/unique_paths.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/unique_paths.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/unique_paths.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/unique_paths.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/unique_paths.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/unique_paths.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/unique_paths.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/unique_paths.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/unique_paths.cpp.i: cmake_force
@@ -1265,7 +1377,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/unique_paths.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/valid_sudoku.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/valid_sudoku.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/valid_sudoku.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/valid_sudoku.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/valid_sudoku.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/valid_sudoku.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/valid_sudoku.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/valid_sudoku.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/valid_sudoku.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/valid_sudoku.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/valid_sudoku.cpp.i: cmake_force
@@ -1279,7 +1391,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/valid_sudoku.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/validate_binary_search_tree.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/validate_binary_search_tree.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/validate_binary_search_tree.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/validate_binary_search_tree.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/validate_binary_search_tree.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/validate_binary_search_tree.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/validate_binary_search_tree.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/validate_binary_search_tree.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/validate_binary_search_tree.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/validate_binary_search_tree.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/validate_binary_search_tree.cpp.i: cmake_force
@@ -1293,7 +1405,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/validate_binary_search_tree.cpp.s: cmake_
 CMakeFiles/leetcode_lib.dir/src/medium/word_break.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/word_break.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/word_break.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/word_break.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/word_break.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/word_break.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/word_break.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/word_break.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/word_break.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/word_break.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/word_break.cpp.i: cmake_force
@@ -1307,7 +1419,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/word_break.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/word_ladder.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/word_ladder.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/word_ladder.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/word_ladder.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/word_ladder.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/word_ladder.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/word_ladder.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/word_ladder.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/word_ladder.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/word_ladder.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/word_ladder.cpp.i: cmake_force
@@ -1321,7 +1433,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/word_ladder.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/medium/word_search.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/medium/word_search.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/word_search.cpp
 CMakeFiles/leetcode_lib.dir/src/medium/word_search.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/word_search.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building CXX object CMakeFiles/leetcode_lib.dir/src/medium/word_search.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/medium/word_search.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/medium/word_search.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/medium/word_search.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/medium/word_search.cpp
 
 CMakeFiles/leetcode_lib.dir/src/medium/word_search.cpp.i: cmake_force
@@ -1335,7 +1447,7 @@ CMakeFiles/leetcode_lib.dir/src/medium/word_search.cpp.s: cmake_force
 CMakeFiles/leetcode_lib.dir/src/utils/data_structures.cpp.o: CMakeFiles/leetcode_lib.dir/flags.make
 CMakeFiles/leetcode_lib.dir/src/utils/data_structures.cpp.o: /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/utils/data_structures.cpp
 CMakeFiles/leetcode_lib.dir/src/utils/data_structures.cpp.o: CMakeFiles/leetcode_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building CXX object CMakeFiles/leetcode_lib.dir/src/utils/data_structures.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building CXX object CMakeFiles/leetcode_lib.dir/src/utils/data_structures.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/leetcode_lib.dir/src/utils/data_structures.cpp.o -MF CMakeFiles/leetcode_lib.dir/src/utils/data_structures.cpp.o.d -o CMakeFiles/leetcode_lib.dir/src/utils/data_structures.cpp.o -c /Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/src/utils/data_structures.cpp
 
 CMakeFiles/leetcode_lib.dir/src/utils/data_structures.cpp.i: cmake_force
@@ -1354,12 +1466,18 @@ leetcode_lib_OBJECTS = \
 "CMakeFiles/leetcode_lib.dir/src/easy/best_time_to_buy_and_sell_stock_ii.cpp.o" \
 "CMakeFiles/leetcode_lib.dir/src/easy/binary_search.cpp.o" \
 "CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_inorder_traversal.cpp.o" \
+"CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_postorder_traversal.cpp.o" \
+"CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_preorder_traversal.cpp.o" \
 "CMakeFiles/leetcode_lib.dir/src/easy/climbing_stairs.cpp.o" \
+"CMakeFiles/leetcode_lib.dir/src/easy/combine_two_tables.cpp.o" \
 "CMakeFiles/leetcode_lib.dir/src/easy/convert_sorted_array_to_bst.cpp.o" \
+"CMakeFiles/leetcode_lib.dir/src/easy/count_primes.cpp.o" \
 "CMakeFiles/leetcode_lib.dir/src/easy/delete_node_in_linked_list.cpp.o" \
 "CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_number.cpp.o" \
+"CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_title.cpp.o" \
 "CMakeFiles/leetcode_lib.dir/src/easy/find_index_of_first_occurrence.cpp.o" \
 "CMakeFiles/leetcode_lib.dir/src/easy/first_bad_version.cpp.o" \
+"CMakeFiles/leetcode_lib.dir/src/easy/happy_number.cpp.o" \
 "CMakeFiles/leetcode_lib.dir/src/easy/house_robber.cpp.o" \
 "CMakeFiles/leetcode_lib.dir/src/easy/intersection_of_two_linked_lists.cpp.o" \
 "CMakeFiles/leetcode_lib.dir/src/easy/invert_binary_tree.cpp.o" \
@@ -1376,8 +1494,10 @@ leetcode_lib_OBJECTS = \
 "CMakeFiles/leetcode_lib.dir/src/easy/palindrome_linked_list.cpp.o" \
 "CMakeFiles/leetcode_lib.dir/src/easy/palindrome_number.cpp.o" \
 "CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle.cpp.o" \
+"CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle_ii.cpp.o" \
 "CMakeFiles/leetcode_lib.dir/src/easy/path_sum.cpp.o" \
 "CMakeFiles/leetcode_lib.dir/src/easy/plus_one.cpp.o" \
+"CMakeFiles/leetcode_lib.dir/src/easy/power_of_two.cpp.o" \
 "CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_array.cpp.o" \
 "CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_list.cpp.o" \
 "CMakeFiles/leetcode_lib.dir/src/easy/remove_element.cpp.o" \
@@ -1449,12 +1569,18 @@ libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/best_time_to_buy_and_sel
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/best_time_to_buy_and_sell_stock_ii.cpp.o
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/binary_search.cpp.o
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_inorder_traversal.cpp.o
+libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_postorder_traversal.cpp.o
+libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/binary_tree_preorder_traversal.cpp.o
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/climbing_stairs.cpp.o
+libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/combine_two_tables.cpp.o
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/convert_sorted_array_to_bst.cpp.o
+libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/count_primes.cpp.o
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/delete_node_in_linked_list.cpp.o
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_number.cpp.o
+libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/excel_sheet_column_title.cpp.o
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/find_index_of_first_occurrence.cpp.o
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/first_bad_version.cpp.o
+libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/happy_number.cpp.o
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/house_robber.cpp.o
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/intersection_of_two_linked_lists.cpp.o
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/invert_binary_tree.cpp.o
@@ -1471,8 +1597,10 @@ libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/number_of_1_bits.cpp.o
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/palindrome_linked_list.cpp.o
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/palindrome_number.cpp.o
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle.cpp.o
+libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/pascals_triangle_ii.cpp.o
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/path_sum.cpp.o
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/plus_one.cpp.o
+libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/power_of_two.cpp.o
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_array.cpp.o
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/remove_duplicates_from_sorted_list.cpp.o
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/easy/remove_element.cpp.o
@@ -1536,7 +1664,7 @@ libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/medium/word_search.cpp.o
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/src/utils/data_structures.cpp.o
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/build.make
 libleetcode_lib.a: CMakeFiles/leetcode_lib.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Linking CXX static library libleetcode_lib.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/owner/Desktop/caiatech/software/c++leetcode/cpp-leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Linking CXX static library libleetcode_lib.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/leetcode_lib.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/leetcode_lib.dir/link.txt --verbose=$(VERBOSE)
 

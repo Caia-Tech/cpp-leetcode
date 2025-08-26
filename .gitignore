@@ -1,0 +1,47 @@
+# Build artifacts
+/build/
+*.o
+*.a
+*.exe
+leetcode_tests
+libleetcode_lib.a
+
+# IDE files
+.vscode/
+.clangd/
+compile_commands.json
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python files (from automation attempts)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.json
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Benchmark artifacts
+benchmark_results/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Backup files
+*.bak
+*~

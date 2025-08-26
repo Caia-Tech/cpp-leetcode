@@ -1,18 +1,18 @@
 # LeetCode Problem Tracker
 
 ## Implementation Status
-- ✅ Implemented (89 problems)
+- ✅ Implemented (99 problems)
 - 🚧 In Progress (0 problems)  
 - ⏳ Pending (~2800+ problems)
 
 ## Progress by Difficulty
-- **Easy**: 46/~800 completed
+- **Easy**: 56/~800 completed
 - **Medium**: 34/~1600 completed
 - **Hard**: 9/~650 completed
 
 ## Completed Problems
 
-### Easy (46)
+### Easy (49)
 - [x] 1. Two Sum
 - [x] 7. Reverse Integer
 - [x] 9. Palindrome Number
@@ -52,9 +52,12 @@
 - [x] 190. Reverse Bits
 - [x] 191. Number of 1 Bits
 - [x] 198. House Robber
+- [x] 202. Happy Number
 - [x] 203. Remove Linked List Elements
+- [x] 204. Count Primes
 - [x] 206. Reverse Linked List
 - [x] 226. Invert Binary Tree
+- [x] 231. Power of Two
 - [x] 234. Palindrome Linked List
 - [x] 237. Delete Node in a Linked List
 - [x] 242. Valid Anagram
