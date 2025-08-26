@@ -1,4 +1,5 @@
-Update Aug 26 - Cleaning up github profile very soon. Discovered that though common practice to reuse Leetcode problems, it is against their TOS. To avoid possible confusion I am closing these projects.
+Update Aug 26 - Cleaning up github profile very soon. Discovered that though common practice to reuse Leetcode problems, it is against their TOS. To avoid possible confusion I am closing these projects. Archiving.
+
 # C++ LeetCode Solutions Collection
 
 A comprehensive collection of **99 LeetCode solutions** implemented in modern C++17, featuring multiple algorithmic approaches for each problem with extensive testing.
